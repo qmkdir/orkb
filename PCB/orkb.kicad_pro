@@ -487,7 +487,9 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(J1-SHIELD)": "Power"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {

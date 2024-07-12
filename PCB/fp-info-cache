@@ -1,4 +1,4 @@
-24851423255187086
+24853144039729434
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93764,6 +93764,13 @@ MX,cherry,gateron,kailh,pg1511,socket
 0
 4
 2
+SplitKeyboard_Common
+YTS-A002
+
+
+0
+4
+3
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking

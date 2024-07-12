@@ -3466,79 +3466,79 @@
 		)
 	)
 	(junction
-		(at 257.81 74.93)
+		(at 237.49 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00e9b614-0bdd-4568-86bc-f9948fd92dbd")
 	)
 	(junction
-		(at 105.41 152.4)
+		(at 110.49 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "030c77b5-9ba5-40ae-a5ca-1169e2da7fde")
 	)
 	(junction
-		(at 45.72 144.78)
+		(at 50.8 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "035713f7-0451-42ff-8cd7-13e2775f49de")
 	)
 	(junction
-		(at 121.92 137.16)
+		(at 127 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0541a161-6c97-4575-9b67-88c9cff294ef")
 	)
 	(junction
-		(at 55.88 167.64)
+		(at 60.96 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "083c318a-9578-4940-842a-3db400967f2f")
 	)
 	(junction
-		(at 267.97 74.93)
+		(at 247.65 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16126c99-3a9d-4efc-bda7-71492d20f345")
 	)
 	(junction
-		(at 62.23 129.54)
+		(at 67.31 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16d1026c-db53-4150-a2b2-9c457036f5cc")
 	)
 	(junction
-		(at 62.23 114.3)
+		(at 67.31 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16e1dba4-12d8-4dd9-a60b-6cd766803a6e")
 	)
 	(junction
-		(at 78.74 114.3)
+		(at 83.82 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1765d040-414d-4500-b791-66762035d1d6")
 	)
 	(junction
-		(at 55.88 182.88)
+		(at 60.96 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19dde2b8-8ed8-4edc-b44c-8bc83d9836ff")
 	)
 	(junction
-		(at 55.88 160.02)
+		(at 60.96 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19e6c64b-f3ed-495b-9e47-2250ccb25166")
 	)
 	(junction
-		(at 72.39 182.88)
+		(at 77.47 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a0ee3c3-25ff-4f51-9b1e-b8f3ff7815ce")
 	)
 	(junction
-		(at 138.43 121.92)
+		(at 143.51 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f038707-11ec-4f25-8166-7ec29114e98a")
@@ -3550,25 +3550,25 @@
 		(uuid "1fb0f7d4-1f59-481f-8f31-d214e757d49a")
 	)
 	(junction
-		(at 88.9 129.54)
+		(at 93.98 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21e7503f-b5b7-4fc7-b3e7-520886b260af")
 	)
 	(junction
-		(at 72.39 137.16)
+		(at 77.47 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2228639f-2e6b-4931-bef2-493ffb760950")
 	)
 	(junction
-		(at 45.72 114.3)
+		(at 50.8 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23ef97f5-a677-4f16-be45-fffcdb3d937e")
 	)
 	(junction
-		(at 72.39 175.26)
+		(at 77.47 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24c0c7db-0f31-4cc3-baac-b1ced1cbbfb8")
@@ -3580,19 +3580,19 @@
 		(uuid "299ed173-004a-423a-b48d-3c970b6f73c8")
 	)
 	(junction
-		(at 78.74 129.54)
+		(at 83.82 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c6c6f4f-4962-46a8-a14b-6bf82af68dd5")
 	)
 	(junction
-		(at 105.41 114.3)
+		(at 110.49 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3705b620-1a25-4455-9a34-c756ab235a18")
 	)
 	(junction
-		(at 105.41 129.54)
+		(at 110.49 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3adb3277-1596-4f11-84b8-a56c1755943f")
@@ -3604,37 +3604,37 @@
 		(uuid "3ce6b304-f41d-45f2-a97b-d98c3f1768c4")
 	)
 	(junction
-		(at 72.39 114.3)
+		(at 77.47 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47fca13f-3ae7-4707-84a8-2f399116c604")
 	)
 	(junction
-		(at 45.72 129.54)
+		(at 50.8 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4915627b-e253-4265-beb6-4024dafefa4d")
 	)
 	(junction
-		(at 72.39 121.92)
+		(at 77.47 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a07c0df-cac5-48af-920e-0bf6b3548247")
 	)
 	(junction
-		(at 95.25 114.3)
+		(at 100.33 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a31182b-f419-4fa0-8a0f-61659d0727f3")
 	)
 	(junction
-		(at 121.92 121.92)
+		(at 127 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50f8f7f1-22db-42a3-b827-b60185d62699")
 	)
 	(junction
-		(at 128.27 129.54)
+		(at 133.35 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5466cbbc-1dae-4551-9b4c-7da8be9ffa52")
@@ -3646,13 +3646,13 @@
 		(uuid "58bea300-fb44-492c-9749-848f1430f4d8")
 	)
 	(junction
-		(at 105.41 137.16)
+		(at 110.49 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d122f8b-43af-45ac-9afc-f82c709128ef")
 	)
 	(junction
-		(at 88.9 114.3)
+		(at 93.98 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60856b1c-308c-4f77-9b4e-96b786d144d6")
@@ -3664,31 +3664,31 @@
 		(uuid "628f4150-761b-4063-9cec-8f2f134e716a")
 	)
 	(junction
-		(at 111.76 114.3)
+		(at 116.84 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64785501-b0ab-4c5d-a487-e6a64717efd0")
 	)
 	(junction
-		(at 72.39 152.4)
+		(at 77.47 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c6ca734-891b-4c33-b143-cd852c26b53f")
 	)
 	(junction
-		(at 128.27 114.3)
+		(at 133.35 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d0b6778-04ec-4d76-94e7-25e1ef12b16b")
 	)
 	(junction
-		(at 55.88 137.16)
+		(at 60.96 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71c4d4f1-68d2-47fc-a237-e061cba8109f")
 	)
 	(junction
-		(at 72.39 129.54)
+		(at 77.47 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "794677a3-cd57-4021-ab7d-5613bbdc86b8")
@@ -3700,19 +3700,19 @@
 		(uuid "79b44493-4f06-4f65-b9a9-e0c0fb13d8cf")
 	)
 	(junction
-		(at 262.89 77.47)
+		(at 242.57 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ddc76a1-f6c4-48a8-b2dc-374f39a5df80")
 	)
 	(junction
-		(at 138.43 129.54)
+		(at 143.51 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e59b1a9-f26f-476a-ac91-6d261416d0e6")
 	)
 	(junction
-		(at 121.92 114.3)
+		(at 127 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80fd78bb-8ae8-45dd-af02-388a69c1e10d")
@@ -3724,67 +3724,67 @@
 		(uuid "826bfbbe-dfc9-4605-a2c3-25042d9a7ee9")
 	)
 	(junction
-		(at 88.9 144.78)
+		(at 93.98 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86350237-adc3-45e7-865d-04b70427f518")
 	)
 	(junction
-		(at 55.88 114.3)
+		(at 60.96 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "881b3b93-bd1c-4b58-91d0-bafb50400dff")
 	)
 	(junction
-		(at 111.76 129.54)
+		(at 116.84 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9767a9c2-9c46-465b-b96d-e929afbc4ea4")
 	)
 	(junction
-		(at 105.41 144.78)
+		(at 110.49 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9774dfae-285a-49cf-943e-8eb3e27316ef")
 	)
 	(junction
-		(at 138.43 152.4)
+		(at 143.51 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97cafab6-dc87-4f07-bf5c-3d518a03753c")
 	)
 	(junction
-		(at 55.88 175.26)
+		(at 60.96 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99076f0e-6bae-48cb-b347-dc2554918413")
 	)
 	(junction
-		(at 95.25 129.54)
+		(at 100.33 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a14f8476-cb44-4de7-bc1e-6c0037d5b48d")
 	)
 	(junction
-		(at 138.43 144.78)
+		(at 143.51 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1bb3dc3-89d0-4a39-9455-537acf048dd4")
 	)
 	(junction
-		(at 121.92 144.78)
+		(at 127 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2b734a6-75bd-4e64-a909-f29c995b21ae")
 	)
 	(junction
-		(at 45.72 160.02)
+		(at 50.8 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3b83fa4-0249-4754-9c38-75d852a6f874")
 	)
 	(junction
-		(at 88.9 121.92)
+		(at 93.98 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5d3e81e-d3c8-45f9-a970-bddd48a023a2")
@@ -3796,55 +3796,55 @@
 		(uuid "a6b40c55-6279-4f01-aef7-5f12bae2f81b")
 	)
 	(junction
-		(at 212.344 100.076)
+		(at 186.944 69.596)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b20f4aac-57d0-4b37-8841-91fb702b6c29")
 	)
 	(junction
-		(at 138.43 137.16)
+		(at 143.51 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b30db581-ab17-4249-936d-e62302946a9c")
 	)
 	(junction
-		(at 88.9 137.16)
+		(at 93.98 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb3194ee-9718-4c15-8f82-0057d8f60105")
 	)
 	(junction
-		(at 138.43 114.3)
+		(at 143.51 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd6bb01b-b8f5-4619-aea4-b7709f036a5a")
 	)
 	(junction
-		(at 105.41 121.92)
+		(at 110.49 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c02cecb8-ee2d-4ce8-8afd-c614dd3ea1a6")
 	)
 	(junction
-		(at 72.39 144.78)
+		(at 77.47 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2644173-bba3-4d5e-988b-cbd2eecd94cc")
 	)
 	(junction
-		(at 55.88 121.92)
+		(at 60.96 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1538237-6555-4f09-8bfb-d74e9a98a6b6")
 	)
 	(junction
-		(at 121.92 129.54)
+		(at 127 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7bb49ae-712e-4f1f-8bfe-b165e398842b")
 	)
 	(junction
-		(at 195.58 139.7)
+		(at 190.5 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da5a427d-b8fd-43f2-8b41-31ae9db201af")
@@ -3856,13 +3856,13 @@
 		(uuid "df5ab177-916a-4900-8431-5f53594930ed")
 	)
 	(junction
-		(at 55.88 129.54)
+		(at 60.96 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1da99c1-6d62-45a2-857d-797156f79362")
 	)
 	(junction
-		(at 88.9 152.4)
+		(at 93.98 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5d82b9e-9319-41ea-b794-0a9bbd32921f")
@@ -3874,25 +3874,25 @@
 		(uuid "e7b1bdb1-a558-4351-832c-caed7fe03e4c")
 	)
 	(junction
-		(at 55.88 152.4)
+		(at 60.96 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ece6b74a-15dd-434e-bcb6-01125ada9d83")
 	)
 	(junction
-		(at 121.92 152.4)
+		(at 127 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f05c9165-f584-4acd-ac6e-82cb23d6978d")
 	)
 	(junction
-		(at 62.23 144.78)
+		(at 67.31 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0c2695b-fafd-4b34-9af3-bed02f43c41c")
 	)
 	(junction
-		(at 55.88 144.78)
+		(at 60.96 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1f6f4c9-b027-4a8e-8317-76ff5a6a38fe")
@@ -3908,11 +3908,11 @@
 		(uuid "1c0258dd-9904-4b2f-b49e-d5f27f6ba50d")
 	)
 	(no_connect
-		(at 250.444 103.886)
+		(at 225.044 73.406)
 		(uuid "23ace743-d70d-4d00-9fc1-de678cce673d")
 	)
 	(no_connect
-		(at 250.444 93.726)
+		(at 225.044 63.246)
 		(uuid "2b9af546-28a4-430b-8368-5723bece4613")
 	)
 	(no_connect
@@ -3932,7 +3932,7 @@
 		(uuid "81122e01-5dcf-4823-b6ec-dcfa7d067b7e")
 	)
 	(no_connect
-		(at 214.884 93.726)
+		(at 189.484 63.246)
 		(uuid "90e2881f-cfc8-4784-b746-a76c32c02940")
 	)
 	(no_connect
@@ -3944,11 +3944,11 @@
 		(uuid "b1f1a435-21ed-4e1a-85c4-0ecd2c62b1e2")
 	)
 	(no_connect
-		(at 250.444 106.426)
+		(at 225.044 75.946)
 		(uuid "c5bd97e3-7b7e-4a9a-a285-4807d7fe4598")
 	)
 	(no_connect
-		(at 214.884 119.126)
+		(at 189.484 88.646)
 		(uuid "e5eeee30-1b17-4026-b938-fdf6f14c75b5")
 	)
 	(no_connect
@@ -3957,7 +3957,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.344 98.806) (xy 212.344 100.076)
+			(xy 186.944 68.326) (xy 186.944 69.596)
 		)
 		(stroke
 			(width 0)
@@ -3967,7 +3967,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 137.16) (xy 121.92 137.16)
+			(xy 110.49 137.16) (xy 127 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3987,7 +3987,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 137.16) (xy 138.43 137.16)
+			(xy 127 137.16) (xy 143.51 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4007,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 152.4) (xy 138.43 152.4)
+			(xy 127 152.4) (xy 143.51 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4017,7 +4017,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 106.426) (xy 214.884 106.426)
+			(xy 188.214 75.946) (xy 189.484 75.946)
 		)
 		(stroke
 			(width 0)
@@ -4027,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 116.586) (xy 251.714 116.586)
+			(xy 225.044 86.106) (xy 226.314 86.106)
 		)
 		(stroke
 			(width 0)
@@ -4037,7 +4037,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 160.02) (xy 45.72 175.26)
+			(xy 50.8 160.02) (xy 50.8 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4047,7 +4047,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 152.4) (xy 88.9 152.4)
+			(xy 77.47 152.4) (xy 93.98 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4057,7 +4057,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 105.41) (xy 95.25 114.3)
+			(xy 100.33 105.41) (xy 100.33 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4067,7 +4067,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 144.78) (xy 62.23 175.26)
+			(xy 67.31 144.78) (xy 67.31 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4087,7 +4087,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 114.3) (xy 78.74 129.54)
+			(xy 83.82 114.3) (xy 83.82 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4107,7 +4107,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 129.54) (xy 62.23 144.78)
+			(xy 67.31 129.54) (xy 67.31 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4117,7 +4117,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 137.16) (xy 212.09 137.16)
+			(xy 203.2 110.49) (xy 207.01 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4127,7 +4127,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 129.54) (xy 111.76 144.78)
+			(xy 116.84 129.54) (xy 116.84 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4137,7 +4137,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 137.16) (xy 55.88 137.16)
+			(xy 44.45 137.16) (xy 60.96 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4147,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 121.92) (xy 105.41 121.92)
+			(xy 93.98 121.92) (xy 110.49 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4157,7 +4157,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.884 98.806) (xy 212.344 98.806)
+			(xy 189.484 68.326) (xy 186.944 68.326)
 		)
 		(stroke
 			(width 0)
@@ -4167,7 +4167,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 116.586) (xy 214.884 116.586)
+			(xy 188.214 86.106) (xy 189.484 86.106)
 		)
 		(stroke
 			(width 0)
@@ -4177,7 +4177,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 137.16) (xy 195.58 137.16)
+			(xy 193.04 110.49) (xy 190.5 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4187,7 +4187,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 167.64) (xy 55.88 167.64)
+			(xy 44.45 167.64) (xy 60.96 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4207,7 +4207,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 121.92) (xy 72.39 121.92)
+			(xy 60.96 121.92) (xy 77.47 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4217,7 +4217,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 105.41) (xy 62.23 114.3)
+			(xy 67.31 105.41) (xy 67.31 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4227,7 +4227,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 119.126) (xy 251.714 119.126)
+			(xy 225.044 88.646) (xy 226.314 88.646)
 		)
 		(stroke
 			(width 0)
@@ -4237,7 +4237,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 129.54) (xy 78.74 144.78)
+			(xy 83.82 129.54) (xy 83.82 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4247,7 +4247,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 114.3) (xy 128.27 129.54)
+			(xy 133.35 114.3) (xy 133.35 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4267,7 +4267,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 121.92) (xy 88.9 121.92)
+			(xy 77.47 121.92) (xy 93.98 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4277,7 +4277,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 139.7) (xy 195.58 139.7)
+			(xy 189.23 113.03) (xy 190.5 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4287,7 +4287,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 114.046) (xy 251.714 114.046)
+			(xy 225.044 83.566) (xy 226.314 83.566)
 		)
 		(stroke
 			(width 0)
@@ -4297,7 +4297,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 144.78) (xy 45.72 160.02)
+			(xy 50.8 144.78) (xy 50.8 160.02)
 		)
 		(stroke
 			(width 0)
@@ -4307,7 +4307,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 154.94) (xy 245.11 154.94)
+			(xy 180.34 43.18) (xy 181.61 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4317,7 +4317,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 149.86) (xy 251.46 146.05)
+			(xy 187.96 38.1) (xy 187.96 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4327,7 +4327,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.344 100.076) (xy 212.344 101.346)
+			(xy 186.944 69.596) (xy 186.944 70.866)
 		)
 		(stroke
 			(width 0)
@@ -4337,7 +4337,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 137.16) (xy 105.41 137.16)
+			(xy 93.98 137.16) (xy 110.49 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4347,7 +4347,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 142.24) (xy 198.12 142.24)
+			(xy 190.5 115.57) (xy 193.04 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4357,7 +4357,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 121.92) (xy 55.88 121.92)
+			(xy 44.45 121.92) (xy 60.96 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4377,7 +4377,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 147.32) (xy 254 147.32)
+			(xy 180.34 35.56) (xy 190.5 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4387,7 +4387,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 137.16) (xy 88.9 137.16)
+			(xy 77.47 137.16) (xy 93.98 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4397,7 +4397,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 152.4) (xy 55.88 152.4)
+			(xy 44.45 152.4) (xy 60.96 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4417,7 +4417,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 114.3) (xy 62.23 129.54)
+			(xy 67.31 114.3) (xy 67.31 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4427,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 108.966) (xy 214.884 108.966)
+			(xy 188.214 78.486) (xy 189.484 78.486)
 		)
 		(stroke
 			(width 0)
@@ -4437,7 +4437,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 121.92) (xy 121.92 121.92)
+			(xy 110.49 121.92) (xy 127 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4447,7 +4447,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 96.266) (xy 214.884 96.266)
+			(xy 188.214 65.786) (xy 189.484 65.786)
 		)
 		(stroke
 			(width 0)
@@ -4457,7 +4457,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 152.4) (xy 105.41 152.4)
+			(xy 93.98 152.4) (xy 110.49 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4467,7 +4467,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 105.41) (xy 45.72 114.3)
+			(xy 50.8 105.41) (xy 50.8 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4477,7 +4477,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 129.54) (xy 45.72 144.78)
+			(xy 50.8 129.54) (xy 50.8 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4487,7 +4487,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 114.3) (xy 95.25 129.54)
+			(xy 100.33 114.3) (xy 100.33 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4497,7 +4497,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.344 101.346) (xy 214.884 101.346)
+			(xy 186.944 70.866) (xy 189.484 70.866)
 		)
 		(stroke
 			(width 0)
@@ -4507,7 +4507,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 103.886) (xy 214.884 103.886)
+			(xy 188.214 73.406) (xy 189.484 73.406)
 		)
 		(stroke
 			(width 0)
@@ -4527,7 +4527,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 152.4) (xy 72.39 152.4)
+			(xy 60.96 152.4) (xy 77.47 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4537,7 +4537,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 96.266) (xy 263.144 96.266)
+			(xy 225.044 65.786) (xy 237.744 65.786)
 		)
 		(stroke
 			(width 0)
@@ -4557,7 +4557,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 137.16) (xy 72.39 137.16)
+			(xy 60.96 137.16) (xy 77.47 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4567,7 +4567,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 152.4) (xy 245.11 152.4)
+			(xy 180.34 40.64) (xy 181.61 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4587,7 +4587,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 182.88) (xy 55.88 182.88)
+			(xy 44.45 182.88) (xy 60.96 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4597,7 +4597,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 121.666) (xy 214.884 121.666)
+			(xy 188.214 91.186) (xy 189.484 91.186)
 		)
 		(stroke
 			(width 0)
@@ -4617,7 +4617,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 108.966) (xy 251.714 108.966)
+			(xy 225.044 78.486) (xy 226.314 78.486)
 		)
 		(stroke
 			(width 0)
@@ -4627,7 +4627,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 111.506) (xy 214.884 111.506)
+			(xy 188.214 81.026) (xy 189.484 81.026)
 		)
 		(stroke
 			(width 0)
@@ -4667,7 +4667,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.724 100.076) (xy 212.344 100.076)
+			(xy 179.324 69.596) (xy 186.944 69.596)
 		)
 		(stroke
 			(width 0)
@@ -4677,7 +4677,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 121.92) (xy 138.43 121.92)
+			(xy 127 121.92) (xy 143.51 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4697,7 +4697,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 149.86) (xy 251.46 149.86)
+			(xy 180.34 38.1) (xy 187.96 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4707,7 +4707,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 101.346) (xy 268.224 101.346)
+			(xy 225.044 70.866) (xy 242.824 70.866)
 		)
 		(stroke
 			(width 0)
@@ -4717,7 +4717,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 98.806) (xy 251.714 98.806)
+			(xy 225.044 68.326) (xy 226.314 68.326)
 		)
 		(stroke
 			(width 0)
@@ -4727,7 +4727,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 105.41) (xy 111.76 114.3)
+			(xy 116.84 105.41) (xy 116.84 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4747,7 +4747,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 105.41) (xy 128.27 114.3)
+			(xy 133.35 105.41) (xy 133.35 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4757,7 +4757,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 114.3) (xy 111.76 129.54)
+			(xy 116.84 114.3) (xy 116.84 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4767,7 +4767,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 114.3) (xy 45.72 129.54)
+			(xy 50.8 114.3) (xy 50.8 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4777,7 +4777,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 77.47) (xy 262.89 80.01)
+			(xy 242.57 46.99) (xy 242.57 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4787,7 +4787,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 182.88) (xy 72.39 182.88)
+			(xy 60.96 182.88) (xy 77.47 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4797,7 +4797,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.614 114.046) (xy 214.884 114.046)
+			(xy 188.214 83.566) (xy 189.484 83.566)
 		)
 		(stroke
 			(width 0)
@@ -4807,7 +4807,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 105.41) (xy 78.74 114.3)
+			(xy 83.82 105.41) (xy 83.82 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4817,7 +4817,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 129.54) (xy 95.25 144.78)
+			(xy 100.33 129.54) (xy 100.33 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4827,7 +4827,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 129.54) (xy 128.27 144.78)
+			(xy 133.35 129.54) (xy 133.35 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4837,7 +4837,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 142.24) (xy 212.09 142.24)
+			(xy 203.2 115.57) (xy 207.01 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4847,7 +4847,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 137.16) (xy 195.58 139.7)
+			(xy 190.5 110.49) (xy 190.5 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4857,7 +4857,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 152.4) (xy 121.92 152.4)
+			(xy 110.49 152.4) (xy 127 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4867,7 +4867,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 121.666) (xy 251.714 121.666)
+			(xy 225.044 91.186) (xy 226.314 91.186)
 		)
 		(stroke
 			(width 0)
@@ -4877,7 +4877,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.444 111.506) (xy 251.714 111.506)
+			(xy 225.044 81.026) (xy 226.314 81.026)
 		)
 		(stroke
 			(width 0)
@@ -4887,7 +4887,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 74.93) (xy 257.81 74.93)
+			(xy 234.95 44.45) (xy 237.49 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4897,7 +4897,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 139.7) (xy 195.58 142.24)
+			(xy 190.5 113.03) (xy 190.5 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4907,7 +4907,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 74.93) (xy 270.51 74.93)
+			(xy 247.65 44.45) (xy 250.19 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4916,8 +4916,8 @@
 		(uuid "ff9168eb-c6ff-457a-bb8b-445f71ec2029")
 	)
 	(rectangle
-		(start 30.48 165.1)
-		(end 40.64 185.42)
+		(start 35.56 165.1)
+		(end 45.72 185.42)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4929,7 +4929,7 @@
 	)
 	(text "CanBe: used for expansion"
 		(exclude_from_sim no)
-		(at 207.264 119.38 0)
+		(at 181.864 88.9 0)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -4940,7 +4940,7 @@
 	)
 	(text "VCC/High = LEFT\nGND/Low = RIGHT"
 		(exclude_from_sim no)
-		(at 187.452 136.398 0)
+		(at 182.372 109.728 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -4950,7 +4950,7 @@
 	)
 	(text "ToBe: used for LED"
 		(exclude_from_sim no)
-		(at 211.836 92.456 0)
+		(at 186.436 61.976 0)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -4961,7 +4961,7 @@
 	)
 	(text "Thumb cluster row"
 		(exclude_from_sim no)
-		(at 34.798 164.338 0)
+		(at 39.878 164.338 0)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -4982,7 +4982,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 128.27 105.41 90)
+		(at 133.35 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4992,7 +4992,7 @@
 		)
 		(uuid "02024c5d-c87b-4ac8-af75-d33dd905491f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.27 98.3125 90)
+			(at 133.35 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5004,7 +5004,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 62.23 105.41 90)
+		(at 67.31 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5014,7 +5014,7 @@
 		)
 		(uuid "12563d3e-4eaf-4454-b18e-e4586b1bf281")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 98.3125 90)
+			(at 67.31 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5026,7 +5026,7 @@
 	)
 	(global_label "Hand"
 		(shape input)
-		(at 194.31 139.7 180)
+		(at 189.23 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5036,7 +5036,7 @@
 		)
 		(uuid "26e4e581-6f16-4709-97aa-93eb8bae97dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.5473 139.7 0)
+			(at 181.4673 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,7 +5048,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 245.11 154.94 0)
+		(at 181.61 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5058,7 +5058,7 @@
 		)
 		(uuid "385f8e32-2f9f-488a-b5aa-83b3ea5c063e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.6633 154.94 0)
+			(at 188.1633 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5070,7 +5070,7 @@
 	)
 	(global_label "Hand"
 		(shape input)
-		(at 213.614 121.666 180)
+		(at 188.214 91.186 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5080,7 +5080,7 @@
 		)
 		(uuid "3f7382c6-618a-4172-b375-f76a29088f72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.8513 121.666 0)
+			(at 180.4513 91.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5114,7 +5114,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 213.614 106.426 180)
+		(at 188.214 75.946 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5124,7 +5124,7 @@
 		)
 		(uuid "4b8a261e-4040-4ead-b16a-1b6d0b13f8c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.1212 106.426 0)
+			(at 181.7212 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5136,7 +5136,7 @@
 	)
 	(global_label "DATA"
 		(shape input)
-		(at 213.614 96.266 180)
+		(at 188.214 65.786 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5146,7 +5146,7 @@
 		)
 		(uuid "4f9b3e05-23a7-421d-b322-fa20a8e4ec9a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.214 96.266 0)
+			(at 180.814 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5158,7 +5158,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 251.714 119.126 0)
+		(at 226.314 88.646 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5168,7 +5168,7 @@
 		)
 		(uuid "59cfd458-519b-4b66-afcd-1aadf47f9bea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 119.126 0)
+			(at 233.4115 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,7 +5180,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 213.614 111.506 180)
+		(at 188.214 81.026 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5190,7 +5190,7 @@
 		)
 		(uuid "5b7f992c-8ec6-4311-9d2c-f264654c42a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.1536 111.506 0)
+			(at 180.7536 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5202,7 +5202,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 245.11 152.4 0)
+		(at 181.61 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5212,7 +5212,7 @@
 		)
 		(uuid "5b84ed4d-70c3-4c56-88c8-429e8213e69c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.6028 152.4 0)
+			(at 188.1028 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5224,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 251.714 108.966 0)
+		(at 226.314 78.486 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5234,7 +5234,7 @@
 		)
 		(uuid "5fcec072-6b40-4c7e-9fc3-209d38365aec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 108.966 0)
+			(at 233.4115 78.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5246,7 +5246,7 @@
 	)
 	(global_label "row0"
 		(shape input)
-		(at 39.37 121.92 180)
+		(at 44.45 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5256,7 +5256,7 @@
 		)
 		(uuid "62a401c5-4b64-41f3-9dcd-c509799712a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9096 121.92 0)
+			(at 36.9896 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5268,7 +5268,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 39.37 182.88 180)
+		(at 44.45 182.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5278,7 +5278,7 @@
 		)
 		(uuid "66290913-ac50-4d64-8f07-5cfa0c4c3ad8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9096 182.88 0)
+			(at 36.9896 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,7 +5290,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 213.614 103.886 180)
+		(at 188.214 73.406 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5300,7 +5300,7 @@
 		)
 		(uuid "6c79cc6f-bdef-43dc-8251-2d6bee987eca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.0607 103.886 0)
+			(at 181.6607 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5312,7 +5312,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 255.27 74.93 180)
+		(at 234.95 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5322,7 +5322,7 @@
 		)
 		(uuid "76b0783a-6883-44a4-a798-b564ec1522af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.5397 74.93 0)
+			(at 226.2197 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5334,7 +5334,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 213.614 116.586 180)
+		(at 188.214 86.106 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5344,7 +5344,7 @@
 		)
 		(uuid "7b7ac03a-834d-4ccc-9fab-ad6db1f70f13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.1536 116.586 0)
+			(at 180.7536 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,7 +5356,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 78.74 105.41 90)
+		(at 83.82 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5366,7 +5366,7 @@
 		)
 		(uuid "7e55c1bf-1021-4c78-ab74-8b0ae41b0d3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 98.3125 90)
+			(at 83.82 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5400,7 +5400,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 251.714 121.666 0)
+		(at 226.314 91.186 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5410,7 +5410,7 @@
 		)
 		(uuid "87e226b6-ebeb-4519-9d3c-8a0b96be29fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 121.666 0)
+			(at 233.4115 91.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 45.72 105.41 90)
+		(at 50.8 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5432,7 +5432,7 @@
 		)
 		(uuid "88ea5e3f-6978-4392-a9b7-93edc8629420")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.72 98.3125 90)
+			(at 50.8 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5444,7 +5444,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 213.614 114.046 180)
+		(at 188.214 83.566 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5454,7 +5454,7 @@
 		)
 		(uuid "895c70cd-739b-4d09-aaaa-0757b0ba4ff3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.1536 114.046 0)
+			(at 180.7536 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5466,7 +5466,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 111.76 105.41 90)
+		(at 116.84 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5476,7 +5476,7 @@
 		)
 		(uuid "966c6998-393c-4b12-8c74-5ce390965b66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.76 98.3125 90)
+			(at 116.84 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5488,7 +5488,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 251.714 114.046 0)
+		(at 226.314 83.566 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5498,7 +5498,7 @@
 		)
 		(uuid "a0a38b8b-414a-4472-be3c-35982b318cff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 114.046 0)
+			(at 233.4115 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5510,7 +5510,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 95.25 105.41 90)
+		(at 100.33 105.41 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5520,7 +5520,7 @@
 		)
 		(uuid "af9dadb9-de6d-4982-838e-efdd311e7e38")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 98.3125 90)
+			(at 100.33 98.3125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5532,7 +5532,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 39.37 137.16 180)
+		(at 44.45 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5542,7 +5542,7 @@
 		)
 		(uuid "b0f173c5-3293-4c01-a8e9-7c36cea0b8e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9096 137.16 0)
+			(at 36.9896 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5554,7 +5554,7 @@
 	)
 	(global_label "row0"
 		(shape input)
-		(at 213.614 108.966 180)
+		(at 188.214 78.486 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5564,7 +5564,7 @@
 		)
 		(uuid "be2c783d-cc4c-46b0-a51d-42970eca8adc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.1536 108.966 0)
+			(at 180.7536 78.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,7 +5576,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 39.37 152.4 180)
+		(at 44.45 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5586,7 +5586,7 @@
 		)
 		(uuid "c3938694-000e-45cb-afa6-4da709fb4439")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9096 152.4 0)
+			(at 36.9896 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5598,7 +5598,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 39.37 167.64 180)
+		(at 44.45 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5608,7 +5608,7 @@
 		)
 		(uuid "e34e3395-173c-42e0-ae41-a9adab89fdcb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 31.9096 167.64 0)
+			(at 36.9896 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5642,7 +5642,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 251.714 111.506 0)
+		(at 226.314 81.026 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5652,7 +5652,7 @@
 		)
 		(uuid "ed78570f-8c78-4bc1-8462-709005960757")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 111.506 0)
+			(at 233.4115 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5664,7 +5664,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 251.714 98.806 0)
+		(at 226.314 68.326 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5674,7 +5674,7 @@
 		)
 		(uuid "eee8d8eb-df7e-4f2c-b0a1-634e38964a9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 260.4443 98.806 0)
+			(at 235.0443 68.326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5686,7 +5686,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 251.714 116.586 0)
+		(at 226.314 86.106 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5696,7 +5696,7 @@
 		)
 		(uuid "fdf4095e-3a48-4571-9a33-ec973023a435")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.8115 116.586 0)
+			(at 233.4115 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5731,7 +5731,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 50.8 114.3 0)
+		(at 55.88 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5739,7 +5739,7 @@
 		(dnp no)
 		(uuid "07bc5866-22b8-448f-b76f-d8ca28e25efc")
 		(property "Reference" "SW1"
-			(at 50.8 109.982 0)
+			(at 55.88 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5747,15 +5747,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 57.658 114.808 0)
+			(at 62.738 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 50.8 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 55.88 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5764,7 +5764,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 109.22 0)
+			(at 55.88 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5773,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 114.3 0)
+			(at 55.88 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5798,7 +5798,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 142.24 0)
+		(at 207.01 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5806,7 +5806,7 @@
 		(dnp no)
 		(uuid "0b99528a-6486-479c-bbfb-7cef43741163")
 		(property "Reference" "#PWR05"
-			(at 212.09 148.59 0)
+			(at 207.01 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5815,7 +5815,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 145.796 0)
+			(at 207.01 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5823,7 +5823,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 142.24 0)
+			(at 207.01 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5832,7 +5832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 142.24 0)
+			(at 207.01 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5841,7 +5841,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 142.24 0)
+			(at 207.01 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5945,7 +5945,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 50.8 160.02 0)
+		(at 55.88 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5953,7 +5953,7 @@
 		(dnp no)
 		(uuid "0d1746bb-b1f2-475f-b86c-47c852b71fa8")
 		(property "Reference" "SW19"
-			(at 50.8 155.702 0)
+			(at 55.88 155.702 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5961,15 +5961,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 57.658 160.528 0)
+			(at 62.738 160.528 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 50.8 154.94 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 55.88 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5978,7 +5978,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 154.94 0)
+			(at 55.88 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5987,7 +5987,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 160.02 0)
+			(at 55.88 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6012,7 +6012,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 148.59 90)
+		(at 143.51 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6020,7 +6020,7 @@
 		(dnp no)
 		(uuid "0dca65c2-1745-49d7-b684-a66c72b98eeb")
 		(property "Reference" "D18"
-			(at 139.7 148.59 90)
+			(at 144.78 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6029,7 +6029,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 149.098 90)
+			(at 133.858 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -6037,8 +6037,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6047,7 +6047,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6056,7 +6056,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6065,7 +6065,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6074,7 +6074,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6123,7 +6123,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 63.5 33.528 90)
 			(effects
 				(font
@@ -6167,7 +6167,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 254 147.32 0)
+		(at 190.5 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6175,7 +6175,7 @@
 		(dnp no)
 		(uuid "10596630-f492-4f6e-9175-b024faf3856a")
 		(property "Reference" "#PWR012"
-			(at 254 153.67 0)
+			(at 190.5 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6184,7 +6184,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254 150.876 0)
+			(at 190.5 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6192,7 +6192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 147.32 0)
+			(at 190.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6201,7 +6201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 147.32 0)
+			(at 190.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6210,7 +6210,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 254 147.32 0)
+			(at 190.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6232,7 +6232,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 148.59 90)
+		(at 77.47 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6240,7 +6240,7 @@
 		(dnp no)
 		(uuid "10bcd650-e3e5-4a56-adf3-d0c0f00bc401")
 		(property "Reference" "D35"
-			(at 73.66 148.59 90)
+			(at 78.74 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6249,7 +6249,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 149.098 90)
+			(at 67.818 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -6257,8 +6257,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6267,7 +6267,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6276,7 +6276,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6285,7 +6285,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6294,7 +6294,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6319,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 118.11 90)
+		(at 77.47 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6327,7 +6327,7 @@
 		(dnp no)
 		(uuid "129a59ac-c7f6-49df-9330-dbee854a5d61")
 		(property "Reference" "D2"
-			(at 73.66 118.11 90)
+			(at 78.74 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6336,7 +6336,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 118.618 90)
+			(at 67.818 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -6344,8 +6344,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6354,7 +6354,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +6363,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6372,7 +6372,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6381,7 +6381,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6406,7 +6406,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 116.84 144.78 0)
+		(at 121.92 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6414,7 +6414,7 @@
 		(dnp no)
 		(uuid "12e28496-e65c-4a2f-b74d-c6c50559bbea")
 		(property "Reference" "SW17"
-			(at 116.84 140.462 0)
+			(at 121.92 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6422,15 +6422,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 123.698 145.288 0)
+			(at 128.778 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6439,7 +6439,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 139.7 0)
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6448,7 +6448,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 144.78 0)
+			(at 121.92 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6473,7 +6473,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 118.11 90)
+		(at 60.96 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6481,7 +6481,7 @@
 		(dnp no)
 		(uuid "143c1b25-68fd-45ac-8df7-4cd21985ad26")
 		(property "Reference" "D22"
-			(at 57.15 118.11 90)
+			(at 62.23 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6490,7 +6490,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 118.618 90)
+			(at 51.308 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -6498,8 +6498,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6508,7 +6508,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6517,7 +6517,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6526,7 +6526,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6535,7 +6535,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6584,7 +6584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 31.75 79.248 90)
 			(effects
 				(font
@@ -6628,7 +6628,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 148.59 90)
+		(at 60.96 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6636,7 +6636,7 @@
 		(dnp no)
 		(uuid "24be6e5a-2d64-4f66-9af6-54abca8f93a3")
 		(property "Reference" "D13"
-			(at 57.15 148.59 90)
+			(at 62.23 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6645,7 +6645,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 149.098 90)
+			(at 51.308 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -6653,8 +6653,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6663,7 +6663,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6672,7 +6672,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6681,7 +6681,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6690,7 +6690,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6715,7 +6715,7 @@
 	)
 	(symbol
 		(lib_id "SplitKeyboard_Common:ProMicro_Jumpers_v2")
-		(at 232.664 107.696 0)
+		(at 207.264 77.216 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6723,7 +6723,7 @@
 		(dnp yes)
 		(uuid "29adbb57-3a55-4a50-99dd-a1e6bf7d41ca")
 		(property "Reference" "U1"
-			(at 244.094 89.916 0)
+			(at 218.694 59.436 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6731,15 +6731,15 @@
 			)
 		)
 		(property "Value" "ProMicro"
-			(at 240.792 125.476 0)
+			(at 215.392 94.996 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "Keyboard Controllers:ProMicro_jumpers_V2"
-			(at 235.204 134.366 0)
+		(property "Footprint" "SplitKeyboard_Common:ProMicro_Jumpers_V2"
+			(at 209.804 103.886 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6748,7 +6748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 235.204 134.366 0)
+			(at 209.804 103.886 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6756,7 +6756,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 232.664 107.696 0)
+			(at 207.264 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6919,7 +6919,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 270.51 74.93 0)
+		(at 250.19 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6927,7 +6927,7 @@
 		(dnp no)
 		(uuid "2d2c4754-c7dd-4bc0-ae54-661030616d55")
 		(property "Reference" "#PWR07"
-			(at 270.51 81.28 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6936,7 +6936,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 270.51 78.486 0)
+			(at 250.19 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6944,7 +6944,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 270.51 74.93 0)
+			(at 250.19 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6953,7 +6953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 74.93 0)
+			(at 250.19 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6962,7 +6962,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 270.51 74.93 0)
+			(at 250.19 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6984,7 +6984,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 133.35 90)
+		(at 60.96 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6992,7 +6992,7 @@
 		(dnp no)
 		(uuid "3629e43a-83c0-46bc-9b08-dbe8607ae25f")
 		(property "Reference" "D7"
-			(at 57.15 133.35 90)
+			(at 62.23 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7001,7 +7001,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 133.858 90)
+			(at 51.308 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7009,8 +7009,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7019,7 +7019,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7028,7 +7028,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,7 +7037,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7046,7 +7046,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7071,7 +7071,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 133.35 129.54 0)
+		(at 138.43 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7079,7 +7079,7 @@
 		(dnp no)
 		(uuid "3667842f-0434-4028-bf13-3943b399e92a")
 		(property "Reference" "SW12"
-			(at 133.35 125.222 0)
+			(at 138.43 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7087,15 +7087,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 140.208 130.048 0)
+			(at 145.288 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 133.35 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 138.43 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7104,7 +7104,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 124.46 0)
+			(at 138.43 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7113,7 +7113,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 133.35 129.54 0)
+			(at 138.43 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7138,7 +7138,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 148.59 90)
+		(at 93.98 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7146,7 +7146,7 @@
 		(dnp no)
 		(uuid "3aafd468-dd8a-4fe9-89b8-c35622b9d6a0")
 		(property "Reference" "D36"
-			(at 90.17 148.59 90)
+			(at 95.25 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7155,7 +7155,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 149.098 90)
+			(at 84.328 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7163,8 +7163,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7173,7 +7173,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7182,7 +7182,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7191,7 +7191,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7200,7 +7200,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7290,7 +7290,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 118.11 90)
+		(at 110.49 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7298,7 +7298,7 @@
 		(dnp no)
 		(uuid "3f9235a8-a1eb-4b37-9974-62150560bc21")
 		(property "Reference" "D4"
-			(at 106.68 118.11 90)
+			(at 111.76 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7307,7 +7307,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 118.618 90)
+			(at 100.838 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7315,8 +7315,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7325,7 +7325,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7334,7 +7334,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7343,7 +7343,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7352,7 +7352,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7377,7 +7377,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 133.35 90)
+		(at 143.51 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7385,7 +7385,7 @@
 		(dnp no)
 		(uuid "4498b1b2-6771-4f69-935d-aef0618b4476")
 		(property "Reference" "D33"
-			(at 139.7 133.35 90)
+			(at 144.78 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7394,7 +7394,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 133.858 90)
+			(at 133.858 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7402,8 +7402,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7412,7 +7412,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7421,7 +7421,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7430,7 +7430,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7439,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7464,7 +7464,7 @@
 	)
 	(symbol
 		(lib_id "SplitKeyboard_Common:TS-A002_TactileSW")
-		(at 262.89 74.93 0)
+		(at 242.57 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7473,7 +7473,7 @@
 		(fields_autoplaced yes)
 		(uuid "49b6f75d-902c-41e1-94ba-ede20388ad47")
 		(property "Reference" "RES1"
-			(at 262.89 67.31 0)
+			(at 242.57 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7481,15 +7481,15 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at 262.89 69.85 0)
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Keyboard Common:YTS-A002"
-			(at 262.89 69.85 0)
+		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7498,7 +7498,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 69.85 0)
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7507,7 +7507,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 262.89 74.93 0)
+			(at 242.57 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7516,7 +7516,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 262.89 74.93 0)
+			(at 242.57 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7544,7 +7544,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 133.35 144.78 0)
+		(at 138.43 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7552,7 +7552,7 @@
 		(dnp no)
 		(uuid "4b25bcc0-56e6-4148-aa58-3f62ee6b20c2")
 		(property "Reference" "SW18"
-			(at 133.35 140.462 0)
+			(at 138.43 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7560,15 +7560,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 140.208 145.288 0)
+			(at 145.288 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 133.35 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 138.43 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7577,7 +7577,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 139.7 0)
+			(at 138.43 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7586,7 +7586,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 133.35 144.78 0)
+			(at 138.43 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7611,7 +7611,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 67.31 144.78 0)
+		(at 72.39 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7619,7 +7619,7 @@
 		(dnp no)
 		(uuid "509ba264-08f1-4869-a897-b97e5ae2f0a9")
 		(property "Reference" "SW14"
-			(at 67.31 140.462 0)
+			(at 72.39 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7627,15 +7627,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 74.168 145.288 0)
+			(at 79.248 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 67.31 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 72.39 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7644,7 +7644,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 139.7 0)
+			(at 72.39 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7653,7 +7653,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 67.31 144.78 0)
+			(at 72.39 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7678,7 +7678,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 148.59 90)
+		(at 77.47 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7686,7 +7686,7 @@
 		(dnp no)
 		(uuid "57986eeb-b234-4fe1-9590-72c4b018ecc6")
 		(property "Reference" "D14"
-			(at 73.66 148.59 90)
+			(at 78.74 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7695,7 +7695,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 149.098 90)
+			(at 67.818 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7703,8 +7703,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7713,7 +7713,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7722,7 +7722,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7731,7 +7731,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7740,7 +7740,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 148.59 0)
+			(at 77.47 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7830,7 +7830,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 148.59 90)
+		(at 127 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7838,7 +7838,7 @@
 		(dnp no)
 		(uuid "5b50af0a-6893-47f4-a155-1a4bdf146fca")
 		(property "Reference" "D17"
-			(at 123.19 148.59 90)
+			(at 128.27 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7847,7 +7847,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 149.098 90)
+			(at 117.348 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7855,8 +7855,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7865,7 +7865,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7874,7 +7874,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7883,7 +7883,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7892,7 +7892,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7917,7 +7917,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 148.59 90)
+		(at 110.49 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7925,7 +7925,7 @@
 		(dnp no)
 		(uuid "6278f50d-4a5b-4fe6-b68b-2edd1be09730")
 		(property "Reference" "D37"
-			(at 106.68 148.59 90)
+			(at 111.76 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7934,7 +7934,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 149.098 90)
+			(at 100.838 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -7942,8 +7942,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7952,7 +7952,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7961,7 +7961,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7970,7 +7970,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,7 +7979,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8004,7 +8004,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 133.35 90)
+		(at 127 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8012,7 +8012,7 @@
 		(dnp no)
 		(uuid "6335a5ae-b7b5-4af8-975f-d0ca29627363")
 		(property "Reference" "D32"
-			(at 123.19 133.35 90)
+			(at 128.27 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8021,7 +8021,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 133.858 90)
+			(at 117.348 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8029,8 +8029,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8039,7 +8039,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8048,7 +8048,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8057,7 +8057,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8066,7 +8066,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8091,7 +8091,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 100.33 114.3 0)
+		(at 105.41 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8099,7 +8099,7 @@
 		(dnp no)
 		(uuid "638af5c4-5060-4261-bc84-13e1d83e1383")
 		(property "Reference" "SW4"
-			(at 100.33 109.982 0)
+			(at 105.41 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8107,15 +8107,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 107.188 114.808 0)
+			(at 112.268 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 100.33 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 105.41 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8124,7 +8124,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 109.22 0)
+			(at 105.41 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8133,7 +8133,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 100.33 114.3 0)
+			(at 105.41 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8158,7 +8158,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 50.8 175.26 0)
+		(at 55.88 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8166,7 +8166,7 @@
 		(dnp no)
 		(uuid "6602ae5a-3e9e-4569-b95d-eefa79a30034")
 		(property "Reference" "SW20"
-			(at 50.8 170.942 0)
+			(at 55.88 170.942 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8174,15 +8174,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 57.658 175.768 0)
+			(at 62.738 175.768 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 50.8 170.18 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 55.88 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8191,7 +8191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 170.18 0)
+			(at 55.88 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8200,7 +8200,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 175.26 0)
+			(at 55.88 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8248,7 +8248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyboard Common:Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x-PiMicro_1_DOUBLESIDED"
+		(property "Footprint" "SplitKeyboard_Common:HRO-TYPE-C-31-M-13x_DOUBLESIDED_Molex-216990_GCT-USB45xx"
 			(at 39.37 46.99 0)
 			(effects
 				(font
@@ -8346,7 +8346,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 212.09 137.16 0)
+		(at 207.01 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8354,7 +8354,7 @@
 		(dnp no)
 		(uuid "6c450881-be5e-422d-819f-f41a9dd8260e")
 		(property "Reference" "#PWR04"
-			(at 212.09 140.97 0)
+			(at 207.01 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8363,7 +8363,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 212.09 133.604 0)
+			(at 207.01 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8371,7 +8371,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 137.16 0)
+			(at 207.01 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,7 +8380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 137.16 0)
+			(at 207.01 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8389,7 +8389,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 212.09 137.16 0)
+			(at 207.01 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8411,7 +8411,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 262.89 80.01 0)
+		(at 242.57 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8419,7 +8419,7 @@
 		(dnp no)
 		(uuid "76c2f49a-4fa4-4db8-bf52-dd20636228d8")
 		(property "Reference" "#PWR06"
-			(at 262.89 86.36 0)
+			(at 242.57 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8428,7 +8428,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 83.566 0)
+			(at 242.57 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8436,7 +8436,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 80.01 0)
+			(at 242.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8445,7 +8445,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 80.01 0)
+			(at 242.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8454,7 +8454,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 262.89 80.01 0)
+			(at 242.57 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8476,7 +8476,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 163.83 90)
+		(at 60.96 163.83 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8484,7 +8484,7 @@
 		(dnp no)
 		(uuid "78530b11-5a36-4e06-82f0-551717509ddb")
 		(property "Reference" "D40"
-			(at 57.15 163.83 90)
+			(at 62.23 163.83 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8493,7 +8493,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 164.338 90)
+			(at 51.308 164.338 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8501,8 +8501,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 163.83 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8511,7 +8511,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8520,7 +8520,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8529,7 +8529,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8538,7 +8538,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8563,7 +8563,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 133.35 90)
+		(at 110.49 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8571,7 +8571,7 @@
 		(dnp no)
 		(uuid "888d726b-fb1b-4893-94dc-6f5f987a9a16")
 		(property "Reference" "D10"
-			(at 106.68 133.35 90)
+			(at 111.76 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8580,7 +8580,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 133.858 90)
+			(at 100.838 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8588,8 +8588,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8598,7 +8598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8607,7 +8607,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8616,7 +8616,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8625,7 +8625,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8650,7 +8650,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 179.07 90)
+		(at 77.47 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8658,7 +8658,7 @@
 		(dnp no)
 		(uuid "8aab951e-8d42-4a1e-96ea-20115c75b7c8")
 		(property "Reference" "D21"
-			(at 73.66 179.07 90)
+			(at 78.74 179.07 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8667,7 +8667,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 179.578 90)
+			(at 67.818 179.578 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8675,8 +8675,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 179.07 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8685,7 +8685,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8694,7 +8694,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8703,7 +8703,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8712,7 +8712,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8737,7 +8737,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 118.11 90)
+		(at 143.51 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8745,7 +8745,7 @@
 		(dnp no)
 		(uuid "8bfcd423-887d-497b-9907-36fa9db95a96")
 		(property "Reference" "D27"
-			(at 139.7 118.11 90)
+			(at 144.78 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8754,7 +8754,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 118.618 90)
+			(at 133.858 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8762,8 +8762,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8772,7 +8772,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8781,7 +8781,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8790,7 +8790,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8799,7 +8799,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8824,7 +8824,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 118.11 90)
+		(at 127 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8832,7 +8832,7 @@
 		(dnp no)
 		(uuid "8e5b93b9-a731-4b5b-bc82-a61e6defb980")
 		(property "Reference" "D26"
-			(at 123.19 118.11 90)
+			(at 128.27 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8841,7 +8841,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 118.618 90)
+			(at 117.348 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8849,8 +8849,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8859,7 +8859,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8868,7 +8868,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8877,7 +8877,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,7 +8886,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,7 +8911,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 133.35 90)
+		(at 93.98 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8919,7 +8919,7 @@
 		(dnp no)
 		(uuid "940a8dd7-8278-4be0-ace1-0036dbf506c7")
 		(property "Reference" "D9"
-			(at 90.17 133.35 90)
+			(at 95.25 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8928,7 +8928,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 133.858 90)
+			(at 84.328 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -8936,8 +8936,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8946,7 +8946,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8955,7 +8955,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8964,7 +8964,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8973,7 +8973,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8998,7 +8998,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
-		(at 203.2 137.16 0)
+		(at 198.12 110.49 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -9006,7 +9006,7 @@
 		(dnp yes)
 		(uuid "951b5b7b-0a6e-477b-9965-5133d24865f2")
 		(property "Reference" "JP1"
-			(at 203.2 134.366 0)
+			(at 198.12 107.696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9014,7 +9014,7 @@
 			)
 		)
 		(property "Value" "Jumper_2"
-			(at 203.2 138.43 0)
+			(at 198.12 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9022,8 +9022,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 203.2 137.16 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 198.12 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9032,7 +9032,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 137.16 0)
+			(at 198.12 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9041,7 +9041,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 203.2 137.16 0)
+			(at 198.12 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9131,7 +9131,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 148.59 90)
+		(at 127 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9139,7 +9139,7 @@
 		(dnp no)
 		(uuid "9681ef86-d232-4cc8-90ea-21b973885f78")
 		(property "Reference" "D38"
-			(at 123.19 148.59 90)
+			(at 128.27 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9148,7 +9148,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 149.098 90)
+			(at 117.348 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -9156,8 +9156,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9166,7 +9166,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9175,7 +9175,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9184,7 +9184,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9193,7 +9193,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 148.59 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9218,7 +9218,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
-		(at 203.2 142.24 0)
+		(at 198.12 115.57 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -9226,7 +9226,7 @@
 		(dnp yes)
 		(uuid "979613a6-9022-4a11-8e55-0db06cc68038")
 		(property "Reference" "JP2"
-			(at 203.2 139.446 0)
+			(at 198.12 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9234,7 +9234,7 @@
 			)
 		)
 		(property "Value" "Jumper_2"
-			(at 203.2 143.51 0)
+			(at 198.12 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9242,8 +9242,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 203.2 142.24 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 198.12 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9252,7 +9252,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 142.24 0)
+			(at 198.12 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9261,7 +9261,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 203.2 142.24 0)
+			(at 198.12 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9286,7 +9286,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 116.84 129.54 0)
+		(at 121.92 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9294,7 +9294,7 @@
 		(dnp no)
 		(uuid "98bfcc20-164b-49d7-8ee7-0fedcc63790e")
 		(property "Reference" "SW11"
-			(at 116.84 125.222 0)
+			(at 121.92 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9302,15 +9302,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 123.698 130.048 0)
+			(at 128.778 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 121.92 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9319,7 +9319,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 124.46 0)
+			(at 121.92 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9328,7 +9328,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 129.54 0)
+			(at 121.92 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9353,7 +9353,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 148.59 90)
+		(at 143.51 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9361,7 +9361,7 @@
 		(dnp no)
 		(uuid "99a85b6a-1da4-4f70-b6ab-fa03671f59b8")
 		(property "Reference" "D39"
-			(at 139.7 148.59 90)
+			(at 144.78 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9370,7 +9370,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 149.098 90)
+			(at 133.858 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -9378,8 +9378,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9388,7 +9388,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9397,7 +9397,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9406,7 +9406,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9415,7 +9415,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 148.59 0)
+			(at 143.51 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9440,7 +9440,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 116.84 114.3 0)
+		(at 121.92 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9448,7 +9448,7 @@
 		(dnp no)
 		(uuid "9a0c581f-ab0f-47e0-aa64-e8129748d972")
 		(property "Reference" "SW5"
-			(at 116.84 109.982 0)
+			(at 121.92 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9456,15 +9456,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 123.698 114.808 0)
+			(at 128.778 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 121.92 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9473,7 +9473,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 109.22 0)
+			(at 121.92 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9482,7 +9482,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 116.84 114.3 0)
+			(at 121.92 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9507,7 +9507,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 204.724 100.076 0)
+		(at 179.324 69.596 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9515,7 +9515,7 @@
 		(dnp no)
 		(uuid "9c85010c-4b48-45d0-a166-c8fe5d1832c3")
 		(property "Reference" "#PWR01"
-			(at 204.724 106.426 0)
+			(at 179.324 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9524,7 +9524,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.724 103.632 0)
+			(at 179.324 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9532,7 +9532,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.724 100.076 0)
+			(at 179.324 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9541,7 +9541,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.724 100.076 0)
+			(at 179.324 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9550,7 +9550,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 204.724 100.076 0)
+			(at 179.324 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9572,7 +9572,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 50.8 129.54 0)
+		(at 55.88 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9580,7 +9580,7 @@
 		(dnp no)
 		(uuid "9cb1759d-30a4-4deb-848b-ed25e26e640d")
 		(property "Reference" "SW7"
-			(at 50.8 125.222 0)
+			(at 55.88 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9588,15 +9588,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 57.658 130.048 0)
+			(at 62.738 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 50.8 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 55.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9605,7 +9605,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 124.46 0)
+			(at 55.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9614,7 +9614,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 129.54 0)
+			(at 55.88 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9639,7 +9639,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 148.59 90)
+		(at 93.98 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9647,7 +9647,7 @@
 		(dnp no)
 		(uuid "a4e7611d-61a0-48f1-b263-a361a7faf4e1")
 		(property "Reference" "D15"
-			(at 90.17 148.59 90)
+			(at 95.25 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9656,7 +9656,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 149.098 90)
+			(at 84.328 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -9664,8 +9664,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9674,7 +9674,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9683,7 +9683,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9692,7 +9692,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9701,7 +9701,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 148.59 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,7 +9726,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 118.11 90)
+		(at 143.51 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9734,7 +9734,7 @@
 		(dnp no)
 		(uuid "a60bcbc9-8797-4370-a2e0-14527b9f74dc")
 		(property "Reference" "D6"
-			(at 139.7 118.11 90)
+			(at 144.78 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9743,7 +9743,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 118.618 90)
+			(at 133.858 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -9751,8 +9751,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9761,7 +9761,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9770,7 +9770,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9779,7 +9779,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9788,7 +9788,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 118.11 0)
+			(at 143.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9813,7 +9813,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 83.82 144.78 0)
+		(at 88.9 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9821,7 +9821,7 @@
 		(dnp no)
 		(uuid "a9ec72ef-55ce-482e-9d6f-8f499534ac54")
 		(property "Reference" "SW15"
-			(at 83.82 140.462 0)
+			(at 88.9 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9829,15 +9829,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 90.678 145.288 0)
+			(at 95.758 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 83.82 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 88.9 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9846,7 +9846,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 139.7 0)
+			(at 88.9 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9855,7 +9855,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 83.82 144.78 0)
+			(at 88.9 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9945,7 +9945,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 263.144 96.266 0)
+		(at 237.744 65.786 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9953,7 +9953,7 @@
 		(dnp no)
 		(uuid "b01bf78a-9da4-498d-8fc7-5be7c97e77d3")
 		(property "Reference" "#PWR03"
-			(at 263.144 102.616 0)
+			(at 237.744 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9962,7 +9962,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 263.144 99.822 0)
+			(at 237.744 69.342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9970,7 +9970,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 263.144 96.266 0)
+			(at 237.744 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9979,7 +9979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 263.144 96.266 0)
+			(at 237.744 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9988,7 +9988,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 263.144 96.266 0)
+			(at 237.744 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10010,7 +10010,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 251.46 146.05 0)
+		(at 187.96 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10018,7 +10018,7 @@
 		(dnp no)
 		(uuid "b22790cf-cec5-47ad-a9c6-5ea8aa74de17")
 		(property "Reference" "#PWR013"
-			(at 251.46 149.86 0)
+			(at 187.96 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10027,7 +10027,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 251.46 142.494 0)
+			(at 187.96 30.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10035,7 +10035,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 146.05 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10044,7 +10044,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 146.05 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10053,7 +10053,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 251.46 146.05 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10075,7 +10075,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 138.43 133.35 90)
+		(at 143.51 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10083,7 +10083,7 @@
 		(dnp no)
 		(uuid "b37869c2-4f59-4ff5-b65f-ae73b3135de7")
 		(property "Reference" "D12"
-			(at 139.7 133.35 90)
+			(at 144.78 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10092,7 +10092,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 128.778 133.858 90)
+			(at 133.858 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10100,8 +10100,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 138.43 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10110,7 +10110,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10119,7 +10119,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10128,7 +10128,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10137,7 +10137,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.43 133.35 0)
+			(at 143.51 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10162,7 +10162,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 118.11 90)
+		(at 127 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10170,7 +10170,7 @@
 		(dnp no)
 		(uuid "b4873db8-3897-4a9a-b1ca-45e0b7ce261d")
 		(property "Reference" "D5"
-			(at 123.19 118.11 90)
+			(at 128.27 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10179,7 +10179,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 118.618 90)
+			(at 117.348 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10187,8 +10187,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10197,7 +10197,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10206,7 +10206,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10215,7 +10215,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10224,7 +10224,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 118.11 0)
+			(at 127 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10249,7 +10249,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 67.31 129.54 0)
+		(at 72.39 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10257,7 +10257,7 @@
 		(dnp no)
 		(uuid "b8f126c4-9286-4442-9f08-65c225680259")
 		(property "Reference" "SW8"
-			(at 67.31 125.222 0)
+			(at 72.39 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10265,15 +10265,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 74.168 130.048 0)
+			(at 79.248 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 67.31 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 72.39 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10282,7 +10282,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 124.46 0)
+			(at 72.39 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10291,7 +10291,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 67.31 129.54 0)
+			(at 72.39 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10316,7 +10316,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 179.07 90)
+		(at 60.96 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10324,7 +10324,7 @@
 		(dnp no)
 		(uuid "b998ac82-3ff0-40f7-bf7a-7b65c50cc708")
 		(property "Reference" "D20"
-			(at 57.15 179.07 90)
+			(at 62.23 179.07 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10333,7 +10333,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 179.578 90)
+			(at 51.308 179.578 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10341,8 +10341,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 179.07 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10351,7 +10351,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10360,7 +10360,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10369,7 +10369,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10378,7 +10378,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10403,7 +10403,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 179.07 90)
+		(at 60.96 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10411,7 +10411,7 @@
 		(dnp no)
 		(uuid "bc1d89dd-b77f-49de-a693-3a1b2e436b20")
 		(property "Reference" "D41"
-			(at 57.15 179.07 90)
+			(at 62.23 179.07 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10420,7 +10420,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 179.578 90)
+			(at 51.308 179.578 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10428,8 +10428,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 179.07 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10438,7 +10438,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10447,7 +10447,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10456,7 +10456,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10465,7 +10465,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 179.07 0)
+			(at 60.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10490,7 +10490,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 83.82 114.3 0)
+		(at 88.9 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10498,7 +10498,7 @@
 		(dnp no)
 		(uuid "bcde0f65-8d92-4d17-a0d5-6b8f167d3ede")
 		(property "Reference" "SW3"
-			(at 83.82 109.982 0)
+			(at 88.9 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10506,15 +10506,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 90.678 114.808 0)
+			(at 95.758 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 83.82 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10523,7 +10523,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 109.22 0)
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10532,7 +10532,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 83.82 114.3 0)
+			(at 88.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10557,7 +10557,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 148.59 90)
+		(at 60.96 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10565,7 +10565,7 @@
 		(dnp no)
 		(uuid "bd88594d-2597-4caa-a74a-25f7f0eaa69a")
 		(property "Reference" "D34"
-			(at 57.15 148.59 90)
+			(at 62.23 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10574,7 +10574,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 149.098 90)
+			(at 51.308 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10582,8 +10582,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10592,7 +10592,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10601,7 +10601,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10610,7 +10610,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10619,7 +10619,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 148.59 0)
+			(at 60.96 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10644,7 +10644,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 67.31 114.3 0)
+		(at 72.39 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10652,7 +10652,7 @@
 		(dnp no)
 		(uuid "beb4058a-6812-4a16-9fe7-970bfd399c11")
 		(property "Reference" "SW2"
-			(at 67.31 109.982 0)
+			(at 72.39 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10660,15 +10660,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 74.168 114.808 0)
+			(at 79.248 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 67.31 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 72.39 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10677,7 +10677,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 109.22 0)
+			(at 72.39 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10686,7 +10686,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 67.31 114.3 0)
+			(at 72.39 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10711,7 +10711,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 268.224 101.346 0)
+		(at 242.824 70.866 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10719,7 +10719,7 @@
 		(dnp no)
 		(uuid "bedb1a99-32ee-478c-aeb7-31d3873ebaab")
 		(property "Reference" "#PWR02"
-			(at 268.224 105.156 0)
+			(at 242.824 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10728,7 +10728,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 268.224 97.79 0)
+			(at 242.824 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10736,7 +10736,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 268.224 101.346 0)
+			(at 242.824 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10745,7 +10745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 268.224 101.346 0)
+			(at 242.824 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10754,7 +10754,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 268.224 101.346 0)
+			(at 242.824 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10776,7 +10776,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 133.35 90)
+		(at 93.98 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10784,7 +10784,7 @@
 		(dnp no)
 		(uuid "c23a0bd9-547b-4231-bbe4-34bdadcdd087")
 		(property "Reference" "D30"
-			(at 90.17 133.35 90)
+			(at 95.25 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10793,7 +10793,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 133.858 90)
+			(at 84.328 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10801,8 +10801,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10811,7 +10811,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10820,7 +10820,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10829,7 +10829,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10838,7 +10838,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 133.35 0)
+			(at 93.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10863,7 +10863,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 118.11 90)
+		(at 110.49 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10871,7 +10871,7 @@
 		(dnp no)
 		(uuid "c4389e74-26a1-4ef5-8bd6-459195c2ad2d")
 		(property "Reference" "D25"
-			(at 106.68 118.11 90)
+			(at 111.76 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10880,7 +10880,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 118.618 90)
+			(at 100.838 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10888,8 +10888,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10898,7 +10898,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10907,7 +10907,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10916,7 +10916,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10925,7 +10925,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 118.11 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10950,7 +10950,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 133.35 90)
+		(at 110.49 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10958,7 +10958,7 @@
 		(dnp no)
 		(uuid "c8505e63-f17a-49ba-ba8a-9724702de01a")
 		(property "Reference" "D31"
-			(at 106.68 133.35 90)
+			(at 111.76 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10967,7 +10967,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 133.858 90)
+			(at 100.838 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -10975,8 +10975,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10985,7 +10985,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10994,7 +10994,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11003,7 +11003,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11012,7 +11012,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 133.35 0)
+			(at 110.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11037,7 +11037,7 @@
 	)
 	(symbol
 		(lib_id "SplitKeyboard_Common:TS-A002_TactileSW")
-		(at 262.89 74.93 0)
+		(at 242.57 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11046,7 +11046,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9647306-ef08-4f3f-9315-078ace0cff44")
 		(property "Reference" "RES2"
-			(at 262.89 67.31 0)
+			(at 242.57 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11054,15 +11054,15 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at 262.89 69.85 0)
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Keyboard Common:YTS-A002"
-			(at 262.89 69.85 0)
+		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11071,7 +11071,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 69.85 0)
+			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11080,7 +11080,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 262.89 74.93 0)
+			(at 242.57 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11089,7 +11089,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 262.89 74.93 0)
+			(at 242.57 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11141,7 +11141,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 63.5 33.528 90)
 			(effects
 				(font
@@ -11185,7 +11185,7 @@
 	)
 	(symbol
 		(lib_id "SplitKeyboard_Common:OLED_4pin")
-		(at 238.76 149.86 0)
+		(at 175.26 38.1 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11194,7 +11194,7 @@
 		(dnp yes)
 		(uuid "d0f92936-e149-4c53-b27e-26ffa78cba05")
 		(property "Reference" "P1"
-			(at 234.696 145.034 0)
+			(at 171.196 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11203,7 +11203,7 @@
 			)
 		)
 		(property "Value" "OLED"
-			(at 236.982 157.48 0)
+			(at 173.482 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11211,8 +11211,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Keyboard Common:SSD1306-0.91-OLED-4pin-128x32 doublesided"
-			(at 238.76 149.86 0)
+		(property "Footprint" "SplitKeyboard_Common:SSD1306-0.91-OLED-4pin-128x32_DOUBLESIDED"
+			(at 175.26 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11221,7 +11221,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 238.76 149.86 0)
+			(at 175.26 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11230,7 +11230,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 238.76 149.86 0)
+			(at 175.26 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11297,7 +11297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 31.75 79.248 90)
 			(effects
 				(font
@@ -11341,7 +11341,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 50.8 144.78 0)
+		(at 55.88 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11349,7 +11349,7 @@
 		(dnp no)
 		(uuid "d555d353-a89c-41a4-8080-deb20ee2aee9")
 		(property "Reference" "SW13"
-			(at 50.8 140.462 0)
+			(at 55.88 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11357,15 +11357,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 57.658 145.288 0)
+			(at 62.738 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 50.8 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 55.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11374,7 +11374,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 139.7 0)
+			(at 55.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11383,7 +11383,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 144.78 0)
+			(at 55.88 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11408,7 +11408,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 67.31 175.26 0)
+		(at 72.39 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11416,7 +11416,7 @@
 		(dnp no)
 		(uuid "dccea245-c25f-4ad1-8dfa-d6e35339b0fd")
 		(property "Reference" "SW21"
-			(at 67.31 170.942 0)
+			(at 72.39 170.942 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11424,15 +11424,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 74.168 175.768 0)
+			(at 79.248 175.768 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 67.31 170.18 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 72.39 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,7 +11441,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 170.18 0)
+			(at 72.39 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11450,7 +11450,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 67.31 175.26 0)
+			(at 72.39 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11475,7 +11475,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 179.07 90)
+		(at 77.47 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11483,7 +11483,7 @@
 		(dnp no)
 		(uuid "df17c426-f6ac-4754-a5e6-61c35dc271f5")
 		(property "Reference" "D42"
-			(at 73.66 179.07 90)
+			(at 78.74 179.07 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11492,7 +11492,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 179.578 90)
+			(at 67.818 179.578 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -11500,8 +11500,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 179.07 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11510,7 +11510,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11519,7 +11519,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11528,7 +11528,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11537,7 +11537,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 179.07 0)
+			(at 77.47 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11562,7 +11562,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 100.33 144.78 0)
+		(at 105.41 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11570,7 +11570,7 @@
 		(dnp no)
 		(uuid "e054e19d-172b-409f-ae22-6e1866e3290f")
 		(property "Reference" "SW16"
-			(at 100.33 140.462 0)
+			(at 105.41 140.462 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11578,15 +11578,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 107.188 145.288 0)
+			(at 112.268 145.288 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 100.33 139.7 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 105.41 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11595,7 +11595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 139.7 0)
+			(at 105.41 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11604,7 +11604,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 100.33 144.78 0)
+			(at 105.41 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11629,7 +11629,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 163.83 90)
+		(at 60.96 163.83 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11637,7 +11637,7 @@
 		(dnp no)
 		(uuid "e3356a4d-40be-4f15-8507-e4ff3beb2153")
 		(property "Reference" "D19"
-			(at 57.15 163.83 90)
+			(at 62.23 163.83 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11646,7 +11646,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 164.338 90)
+			(at 51.308 164.338 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -11654,8 +11654,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 163.83 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11664,7 +11664,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11673,7 +11673,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11682,7 +11682,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11691,7 +11691,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 163.83 0)
+			(at 60.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11716,7 +11716,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 100.33 129.54 0)
+		(at 105.41 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11724,7 +11724,7 @@
 		(dnp no)
 		(uuid "e6115229-c315-49c1-adc2-09638ed70cf4")
 		(property "Reference" "SW10"
-			(at 100.33 125.222 0)
+			(at 105.41 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11732,15 +11732,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 107.188 130.048 0)
+			(at 112.268 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 100.33 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 105.41 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11749,7 +11749,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 124.46 0)
+			(at 105.41 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11758,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 100.33 129.54 0)
+			(at 105.41 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11783,7 +11783,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 118.11 90)
+		(at 77.47 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11791,7 +11791,7 @@
 		(dnp no)
 		(uuid "e66b088c-66ba-44b1-a18d-60b48b6d6944")
 		(property "Reference" "D23"
-			(at 73.66 118.11 90)
+			(at 78.74 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11800,7 +11800,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 118.618 90)
+			(at 67.818 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -11808,8 +11808,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11818,7 +11818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11827,7 +11827,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11836,7 +11836,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11845,7 +11845,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 118.11 0)
+			(at 77.47 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11870,7 +11870,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 118.11 90)
+		(at 60.96 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11878,7 +11878,7 @@
 		(dnp no)
 		(uuid "eb5f31b8-1e7f-4a51-a995-4787d783e793")
 		(property "Reference" "D1"
-			(at 57.15 118.11 90)
+			(at 62.23 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11887,7 +11887,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 118.618 90)
+			(at 51.308 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -11895,8 +11895,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11905,7 +11905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11914,7 +11914,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11923,7 +11923,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11932,7 +11932,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 118.11 0)
+			(at 60.96 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11957,7 +11957,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 83.82 129.54 0)
+		(at 88.9 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11965,7 +11965,7 @@
 		(dnp no)
 		(uuid "ec55c188-d155-488f-a5e0-755f172385f7")
 		(property "Reference" "SW9"
-			(at 83.82 125.222 0)
+			(at 88.9 125.222 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11973,15 +11973,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 90.678 130.048 0)
+			(at 95.758 130.048 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 83.82 124.46 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 88.9 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11990,7 +11990,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 124.46 0)
+			(at 88.9 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11999,7 +11999,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 83.82 129.54 0)
+			(at 88.9 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12024,7 +12024,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 118.11 90)
+		(at 93.98 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12032,7 +12032,7 @@
 		(dnp no)
 		(uuid "ece6df36-dd22-4713-af36-b800d6963257")
 		(property "Reference" "D24"
-			(at 90.17 118.11 90)
+			(at 95.25 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12041,7 +12041,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 118.618 90)
+			(at 84.328 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12049,8 +12049,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12059,7 +12059,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12068,7 +12068,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12077,7 +12077,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +12086,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12193,7 +12193,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 133.35 114.3 0)
+		(at 138.43 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12201,7 +12201,7 @@
 		(dnp no)
 		(uuid "f0c632a5-8261-4019-a9c4-cc3dae25ec03")
 		(property "Reference" "SW6"
-			(at 133.35 109.982 0)
+			(at 138.43 109.982 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12209,15 +12209,15 @@
 			)
 		)
 		(property "Value" "MXHS"
-			(at 140.208 114.808 0)
+			(at 145.288 114.808 0)
 			(effects
 				(font
 					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 133.35 109.22 0)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 138.43 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12226,7 +12226,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 109.22 0)
+			(at 138.43 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12235,7 +12235,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 133.35 114.3 0)
+			(at 138.43 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12260,7 +12260,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 133.35 90)
+		(at 77.47 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12268,7 +12268,7 @@
 		(dnp no)
 		(uuid "f174de6b-aeb3-4ba5-ac14-be67ddce05ba")
 		(property "Reference" "D29"
-			(at 73.66 133.35 90)
+			(at 78.74 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12277,7 +12277,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 133.858 90)
+			(at 67.818 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12285,8 +12285,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12295,7 +12295,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12304,7 +12304,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12313,7 +12313,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12322,7 +12322,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12347,7 +12347,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 88.9 118.11 90)
+		(at 93.98 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12355,7 +12355,7 @@
 		(dnp no)
 		(uuid "f292e913-5320-4ea1-80a1-014dcf1918aa")
 		(property "Reference" "D3"
-			(at 90.17 118.11 90)
+			(at 95.25 118.11 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12364,7 +12364,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 79.248 118.618 90)
+			(at 84.328 118.618 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12372,8 +12372,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 88.9 118.11 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12382,7 +12382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12391,7 +12391,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12400,7 +12400,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12409,7 +12409,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 118.11 0)
+			(at 93.98 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12434,7 +12434,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 72.39 133.35 90)
+		(at 77.47 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12442,7 +12442,7 @@
 		(dnp no)
 		(uuid "fb3ccb5a-4a2f-4ab7-83ef-a8ae75e9db29")
 		(property "Reference" "D8"
-			(at 73.66 133.35 90)
+			(at 78.74 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12451,7 +12451,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 62.738 133.858 90)
+			(at 67.818 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12459,8 +12459,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 72.39 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12469,7 +12469,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12478,7 +12478,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12487,7 +12487,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12496,7 +12496,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 133.35 0)
+			(at 77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12521,7 +12521,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 55.88 133.35 90)
+		(at 60.96 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12529,7 +12529,7 @@
 		(dnp no)
 		(uuid "fb4a3008-36f9-451e-91f5-a0ff84c06e75")
 		(property "Reference" "D28"
-			(at 57.15 133.35 90)
+			(at 62.23 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12538,7 +12538,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 46.228 133.858 90)
+			(at 51.308 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12546,8 +12546,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.88 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12556,7 +12556,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12565,7 +12565,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12574,7 +12574,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12583,7 +12583,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 133.35 0)
+			(at 60.96 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12608,7 +12608,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 105.41 148.59 90)
+		(at 110.49 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12616,7 +12616,7 @@
 		(dnp no)
 		(uuid "fd5e0eac-6f8d-4585-bd6f-235b4a6fdbb4")
 		(property "Reference" "D16"
-			(at 106.68 148.59 90)
+			(at 111.76 148.59 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12625,7 +12625,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 95.758 149.098 90)
+			(at 100.838 149.098 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12633,8 +12633,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 148.59 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12643,7 +12643,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12652,7 +12652,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12661,7 +12661,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12670,7 +12670,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 105.41 148.59 0)
+			(at 110.49 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12695,7 +12695,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 121.92 133.35 90)
+		(at 127 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12703,7 +12703,7 @@
 		(dnp no)
 		(uuid "fe0af32b-7f22-4cca-b255-435fda26caf2")
 		(property "Reference" "D11"
-			(at 123.19 133.35 90)
+			(at 128.27 133.35 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12712,7 +12712,7 @@
 			)
 		)
 		(property "Value" "1N4148/1N4148W"
-			(at 112.268 133.858 90)
+			(at 117.348 133.858 90)
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -12720,8 +12720,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 121.92 133.35 0)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12730,7 +12730,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12739,7 +12739,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12748,7 +12748,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12757,7 +12757,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)

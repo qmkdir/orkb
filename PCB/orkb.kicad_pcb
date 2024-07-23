@@ -5530,9 +5530,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "F.Cu")
 		(uuid "a7bae3a8-6939-4348-8874-b20c4b971bb2")
-		(at 92.837 51.054)
+		(at 66.548 126.238 90)
 		(property "Reference" "RES1"
-			(at 0 -3.2 0)
+			(at 0 -3.2 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5545,7 +5545,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.27 -5.08 0)
+			(at -1.27 -5.080001 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5558,7 +5558,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5571,7 +5571,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5584,7 +5584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5597,7 +5597,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9db8dc48-c0a6-413a-a03b-4ed384c52e92")
@@ -5612,20 +5612,10 @@
 		(sheetname "Root")
 		(sheetfile "orkb.kicad_sch")
 		(attr smd)
-		(fp_rect
-			(start -2.4 -0.85)
-			(end 2.4 1.55)
-			(stroke
-				(width 0.1)
-				(type solid)
+		(fp_poly
+			(pts
+				(xy -0.95 -2.1) (xy 0.95 -2.1) (xy 0.95 -0.9) (xy -0.95 -0.9)
 			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "51b21198-4826-4222-955e-26e9528fa9e2")
-		)
-		(fp_rect
-			(start -0.95 -2.1)
-			(end 0.95 -0.9)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -5634,9 +5624,22 @@
 			(layer "Dwgs.User")
 			(uuid "8c2abbcb-f88f-4e86-983d-45bb74312c51")
 		)
-		(fp_rect
-			(start -3 -2.25)
-			(end 3 1.95)
+		(fp_poly
+			(pts
+				(xy -2.4 -0.849999) (xy 2.4 -0.850001) (xy 2.400001 1.55) (xy -2.399999 1.550001)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "51b21198-4826-4222-955e-26e9528fa9e2")
+		)
+		(fp_poly
+			(pts
+				(xy -2.999999 -2.25) (xy 3.000001 -2.249999) (xy 3.000001 1.95) (xy -2.999999 1.950001)
+			)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -5646,21 +5649,21 @@
 			(uuid "7596c93c-7429-41fb-ae4c-50507c67ae43")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0)
+			(at -0.85 0 90)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "93148871-7dac-438c-8684-f7bee9ad8e17")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0)
+			(at 0.85 0 90)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "00bf0bc5-fe13-4bcd-b108-ca4bab552471")
 		)
 		(pad "1" smd roundrect
-			(at -2 1.35)
+			(at -2 1.349999 90)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5670,7 +5673,7 @@
 			(uuid "e76a1c14-5c46-4e19-96e2-9a23341689e2")
 		)
 		(pad "2" smd roundrect
-			(at 2 1.35)
+			(at 1.999999 1.350001 90)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5680,7 +5683,7 @@
 			(uuid "f5081892-7eb8-4c93-844b-67b1e5e6ebe7")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 -0.35)
+			(at -2.475 -0.35 90)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5691,7 +5694,7 @@
 			(uuid "6f0e6fd3-0bb1-4afe-954b-3f25276734fa")
 		)
 		(pad "3" smd roundrect
-			(at 2.54 -0.35)
+			(at 2.540001 -0.350001 90)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -40155,9 +40158,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "B.Cu")
 		(uuid "f2f57d50-8877-45fd-be27-82a5a53a128a")
-		(at 92.837 51.054 180)
+		(at 66.548 126.238 -90)
 		(property "Reference" "RES2"
-			(at 0 3.2 0)
+			(at 0 3.2 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -40171,7 +40174,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.27 5.08 0)
+			(at -1.269999 5.08 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40185,7 +40188,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40199,7 +40202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40213,7 +40216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40227,7 +40230,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e1f3b751-811c-43a8-be78-a6d1bdacbe79")
@@ -40243,20 +40246,10 @@
 		(sheetname "Root")
 		(sheetfile "orkb.kicad_sch")
 		(attr smd)
-		(fp_rect
-			(start 2.4 -1.55)
-			(end -2.4 0.85)
-			(stroke
-				(width 0.1)
-				(type solid)
+		(fp_poly
+			(pts
+				(xy 0.95 0.9) (xy -0.95 0.9) (xy -0.95 2.1) (xy 0.95 2.1)
 			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "3a32b189-a8f1-4aba-9398-26fc80e0d63d")
-		)
-		(fp_rect
-			(start 0.95 0.9)
-			(end -0.95 2.1)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -40265,9 +40258,22 @@
 			(layer "Dwgs.User")
 			(uuid "5499dad4-cbbd-432d-b53b-c4f960d0fe8f")
 		)
-		(fp_rect
-			(start 3 -1.95)
-			(end -3 2.25)
+		(fp_poly
+			(pts
+				(xy 2.399999 -1.550001) (xy -2.400001 -1.55) (xy -2.4 0.850001) (xy 2.4 0.849999)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "3a32b189-a8f1-4aba-9398-26fc80e0d63d")
+		)
+		(fp_poly
+			(pts
+				(xy 2.999999 -1.950001) (xy -3.000001 -1.95) (xy -3.000001 2.249999) (xy 2.999999 2.25)
+			)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -40277,21 +40283,21 @@
 			(uuid "71b9ac53-c55d-47c3-bd13-758db71f4960")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0 180)
+			(at -0.85 0 270)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "7c65ad82-f7ee-435a-87cb-3efb987d8295")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0 180)
+			(at 0.85 0 270)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "f30afc64-30ea-4503-8bc0-fbaaad337e62")
 		)
 		(pad "1" smd roundrect
-			(at -2 -1.35 180)
+			(at -1.999999 -1.350001 270)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40301,7 +40307,7 @@
 			(uuid "d5d22ed0-8c1a-488b-8d50-32e97a6b282f")
 		)
 		(pad "2" smd roundrect
-			(at 2 -1.35 180)
+			(at 2 -1.349999 270)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40311,7 +40317,7 @@
 			(uuid "13b79235-f76c-4edf-9a29-0e7fd81743d4")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 0.35 180)
+			(at -2.475 0.35 270)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40322,7 +40328,7 @@
 			(uuid "8b55c0e8-6073-4f07-b4cb-37ecbf658212")
 		)
 		(pad "3" smd roundrect
-			(at 2.54 0.35 180)
+			(at 2.54 0.349999 270)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40624,6 +40630,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 136.779 99.568)
+		(end 154.813 105.156)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bda8cef6-aafc-4a85-a1c7-8943aa778520")
+	)
 	(gr_line
 		(start 65.278 51.054)
 		(end 65.278 93.523997)
@@ -40686,17 +40703,6 @@
 		(uuid "206cb306-0923-4a6c-a9b2-cd1c9daddc98")
 	)
 	(gr_arc
-		(start 349.25 58.42)
-		(mid 348.351974 58.048026)
-		(end 347.98 57.15)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "26f55cfc-2ba1-4e83-a0bf-cdf9b69f8a33")
-	)
-	(gr_arc
 		(start 149.225 107.696)
 		(mid 149.596974 106.797974)
 		(end 150.495 106.426)
@@ -40706,16 +40712,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "2a35cfee-1794-4163-8ae5-9dfed4df5715")
-	)
-	(gr_line
-		(start 369.57 57.15)
-		(end 369.57 38.1)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2c241f89-94dd-4fac-83df-2c137c18bf4d")
 	)
 	(gr_arc
 		(start 115.951 48.514)
@@ -40794,16 +40790,6 @@
 		(uuid "4fae6e33-67f9-4778-a3dd-82ff0fcabb34")
 	)
 	(gr_line
-		(start 368.3 58.42)
-		(end 349.25 58.42)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "55a3af04-8324-4d6a-a1f1-828d507cefa7")
-	)
-	(gr_line
 		(start 136.271 40.767)
 		(end 155.321 40.767)
 		(stroke
@@ -40812,17 +40798,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "56af943a-a8a4-4c0f-ab92-b4aa680e9dda")
-	)
-	(gr_arc
-		(start 369.57 57.15)
-		(mid 369.198026 58.048026)
-		(end 368.3 58.42)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "5945d738-d573-44b7-8b22-f77542f58db4")
 	)
 	(gr_arc
 		(start 135.001 42.037)
@@ -40856,17 +40831,6 @@
 		(layer "Edge.Cuts")
 		(uuid "69deedc8-e0d6-4a90-9d61-84309a66a51f")
 	)
-	(gr_arc
-		(start 347.98 38.1)
-		(mid 348.351974 37.201974)
-		(end 349.25 36.83)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6d0f00fe-ab1c-402c-b70c-e2756afe26d0")
-	)
 	(gr_line
 		(start 157.861 46.736)
 		(end 174.371 46.736)
@@ -40886,16 +40850,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "764a4a59-a40d-4354-922f-8e52d33e2d79")
-	)
-	(gr_line
-		(start 347.98 38.1)
-		(end 347.98 57.15)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "767d84e5-817f-4247-aef6-850ca27eb427")
 	)
 	(gr_arc
 		(start 157.861 46.736)
@@ -41011,16 +40965,6 @@
 		(layer "Edge.Cuts")
 		(uuid "c02821ba-70a6-4de7-8037-3e2c75ecf381")
 	)
-	(gr_line
-		(start 368.3 36.83)
-		(end 349.25 36.83)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c5db2554-f6c7-40c5-8717-7761b5ef97ce")
-	)
 	(gr_arc
 		(start 155.321 40.767)
 		(mid 156.219026 41.138974)
@@ -41053,17 +40997,6 @@
 		(uuid "eca414c4-9328-4eb9-b28f-c8e66219573c")
 	)
 	(gr_arc
-		(start 368.3 36.83)
-		(mid 369.198026 37.201974)
-		(end 369.57 38.1)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "efbea015-66a6-42df-9f7f-a7822a06d308")
-	)
-	(gr_arc
 		(start 115.951 48.514)
 		(mid 116.322974 47.615974)
 		(end 117.221 47.244)
@@ -41084,28 +41017,14 @@
 		(layer "Edge.Cuts")
 		(uuid "fb054592-2e36-4f68-b133-1d3a6d2d00d0")
 	)
-	(gr_text "ENCODER HERE"
-		(at 65.278 122.191501 0)
-		(layer "Edge.Cuts")
-		(uuid "7df722ee-2aa3-4865-8fcd-61708844559e")
+	(gr_text "ORCA"
+		(at 137.795 104.775 0)
+		(layer "F.SilkS")
+		(uuid "fb9c9ded-5f9e-439e-9ff9-1f0d034ede70")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "ENCODER HERE"
-		(at 73.66 130.302 90)
-		(layer "Edge.Cuts")
-		(uuid "805064ea-4da4-4ad9-bcc1-1f39f9284ceb")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
+				(size 4 4)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)

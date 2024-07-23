@@ -3610,10 +3610,22 @@
 		(uuid "5bb1eb23-ccb9-4dfb-b38e-d2e68e5af9f3")
 	)
 	(junction
+		(at 52.07 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5caf8cae-0c18-4b13-b88f-51474610a657")
+	)
+	(junction
 		(at 128.27 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61cdae37-d174-48fe-9cbe-2e7166d83e47")
+	)
+	(junction
+		(at 62.23 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61ea8a08-6c3c-488a-be08-ae4d9ac4e75c")
 	)
 	(junction
 		(at 78.74 166.37)
@@ -3716,6 +3728,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9bfd7cae-e48b-49e6-9f2d-55ed782521ef")
+	)
+	(junction
+		(at 62.23 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cd75f25-6102-4983-8f03-e0d375fd5edc")
 	)
 	(junction
 		(at 85.09 113.03)
@@ -4035,6 +4053,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 158.75) (xy 52.07 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d7d516d-0ea8-4823-991b-696bac3cda5b")
+	)
+	(wire
+		(pts
 			(xy 245.11 125.73) (xy 247.65 125.73)
 		)
 		(stroke
@@ -4262,6 +4290,16 @@
 			(type default)
 		)
 		(uuid "46c55c42-124c-41a0-942f-8c0a41a49d47")
+	)
+	(wire
+		(pts
+			(xy 44.45 181.61) (xy 62.23 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f4a2f5-ab36-4b8e-ac77-aa56362afa1e")
 	)
 	(wire
 		(pts
@@ -4938,6 +4976,18 @@
 		(uuid 8fc861ec-994f-4453-a353-c72a9b131979)
 	)
 	(rectangle
+		(start 50.8 168.91)
+		(end 66.04 182.88)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 95e2678e-b86c-4ca2-9869-68fadbe94ad2)
+	)
+	(rectangle
 		(start 185.42 13.97)
 		(end 281.94 85.09)
 		(stroke
@@ -4971,6 +5021,16 @@
 		)
 		(uuid "8da6a7e4-4ff4-4037-b953-6b94bdca7685")
 	)
+	(text "Index finger cluster"
+		(exclude_from_sim no)
+		(at 49.53 173.99 90)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "8ee6b4c3-72f2-43c4-a2d1-b93d7cb70828")
+	)
 	(text "Thumb cluster"
 		(exclude_from_sim no)
 		(at 49.53 157.48 90)
@@ -4991,6 +5051,28 @@
 			(justify left bottom)
 		)
 		(uuid "9a649c60-a782-427e-91bf-8269b5c06278")
+	)
+	(global_label "row3"
+		(shape input)
+		(at 44.45 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1293dd93-a777-4e5f-b652-991e7f2073e6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.9896 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "col0"
 		(shape input)
@@ -5844,6 +5926,93 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 62.23 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "05312913-76e0-43ce-846f-16c1ba6bef82")
+		(property "Reference" "D46"
+			(at 62.484 175.514 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4841/1N4148W"
+			(at 51.816 177.8 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b4f4dfd-1bdf-46da-96b8-d82272436718")
+		)
+		(pin "2"
+			(uuid "abb9b9c1-f172-46fa-9825-99de94dc766c")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -10049,6 +10218,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 57.15 173.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90cdf11a-dce3-4c0a-8c7f-0a11892a7442")
+		(property "Reference" "SW23"
+			(at 57.15 169.926 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "MXHS"
+			(at 57.15 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:SW_MX_HotSwap_Reversible"
+			(at 57.15 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 57.15 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "acf1f57e-5bc0-4d76-9cc2-d201c4a5baa9")
+		)
+		(pin "1"
+			(uuid "ecb2780f-7f35-4e40-8a06-a3479bc1fd06")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 95.25 147.32 90)
 		(unit 1)
@@ -11095,6 +11332,93 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 62.23 177.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0e489d4-8023-4a77-ae82-40d29b14aa92")
+		(property "Reference" "D45"
+			(at 62.484 175.514 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4841/1N4148W"
+			(at 51.816 177.8 90)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:Diode_DO35_SOD123_Hybrid"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05a83aeb-35a9-414e-8d61-0b1570c0ee52")
+		)
+		(pin "2"
+			(uuid "dec0bda6-a76b-4ee5-bdec-a1175186a7ed")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "D45")
 					(unit 1)
 				)
 			)

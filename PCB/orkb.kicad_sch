@@ -12867,6 +12867,7 @@
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 358.14 55.88 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -13361,6 +13362,7 @@
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 358.14 49.53 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)

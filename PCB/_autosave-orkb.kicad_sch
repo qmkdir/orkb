@@ -1078,6 +1078,172 @@
 				)
 			)
 		)
+		(symbol "SplitKeyboard_Common:MSK12C02"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW33"
+				(at -0.508 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MSK12C02"
+				(at -0.508 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SplitKeyboard_Common:MSK12C02"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 1.27 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C431540"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MSK12C02_0_1"
+				(rectangle
+					(start -3.81 -1.27)
+					(end -2.032 -2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 3.81)
+					(end 2.794 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MSK12C02_1_1"
+				(pin power_out line
+					(at 7.62 -1.27 180)
+					(length 5.08)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 0 90)
+					(length 2.54) hide
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 2.54 180)
+					(length 5.08)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -5.08 180)
+					(length 5.08)
+					(name "NO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "NO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SplitKeyboard_Common:OLED_4pin"
 			(pin_names
 				(offset 1.016)
@@ -3676,6 +3842,12 @@
 		(uuid "382d1773-2606-485d-9204-2e37bd5104b5")
 	)
 	(junction
+		(at 321.31 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c7a5884-4364-4ad8-8f8e-f77d9ed85ec8")
+	)
+	(junction
 		(at 62.23 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3710,6 +3882,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5caf8cae-0c18-4b13-b88f-51474610a657")
+	)
+	(junction
+		(at 328.93 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61b50d45-66f7-4a11-b6d2-964ac352787a")
 	)
 	(junction
 		(at 128.27 128.27)
@@ -4899,6 +5077,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 33.02) (xy 341.63 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2f16982-5d96-49da-869f-01a2d8acaee2")
+	)
+	(wire
+		(pts
 			(xy 199.39 114.3) (xy 208.28 114.3)
 		)
 		(stroke
@@ -4939,6 +5127,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 36.83) (xy 351.79 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f11f318c-4daf-4080-ab97-c59dce0938c0")
+	)
+	(wire
+		(pts
 			(xy 44.45 151.13) (xy 62.23 151.13)
 		)
 		(stroke
@@ -4946,6 +5144,16 @@
 			(type default)
 		)
 		(uuid "f2420a4c-b0d8-435b-90a6-0f603bdf20bf")
+	)
+	(wire
+		(pts
+			(xy 350.52 30.48) (xy 351.79 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a62cff-572e-4aba-8089-9c8c4a621ece")
 	)
 	(wire
 		(pts
@@ -5163,6 +5371,39 @@
 		)
 		(uuid "a2c44e45-bcad-4c50-84f5-5e26f0287ffa")
 	)
+	(label "PWR_KEY"
+		(at 328.93 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35fbe108-83c9-4f9c-ae13-65e367e15997")
+	)
+	(label "PWR_GLOW"
+		(at 328.93 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b51452b-b7d1-48d8-a9f6-bc0dba0f9233")
+	)
+	(label "PWR_GLOW"
+		(at 361.95 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6893f79a-0603-4771-97a2-96d79151c5ce")
+	)
 	(label "VCC_LINK"
 		(at 44.45 27.94 0)
 		(fields_autoplaced yes)
@@ -5173,6 +5414,17 @@
 			(justify left bottom)
 		)
 		(uuid "9a649c60-a782-427e-91bf-8269b5c06278")
+	)
+	(label "PWR_KEY"
+		(at 361.95 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cda5e8fc-7517-449f-82d4-be6100aa99c7")
 	)
 	(global_label "row3"
 		(shape input)
@@ -7521,6 +7773,88 @@
 		)
 	)
 	(symbol
+		(lib_id "SplitKeyboard_Common:MSK12C02")
+		(at 321.31 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "28d3a796-9677-454a-bca2-da9edb7dd419")
+		(property "Reference" "SW25"
+			(at 321.31 26.67 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "MSK12C02"
+			(at 321.31 38.1 0)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:MSK12C02"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C431540"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "5a271fc1-db24-4347-a541-18f3e1521674")
+		)
+		(pin "NO"
+			(uuid "994ede28-f9e4-4353-80cc-623a0fdb7bb7")
+		)
+		(pin "COM"
+			(uuid "329944d9-7922-4401-8c40-1cd810ff7508")
+		)
+		(pin "NC"
+			(uuid "bfcf3c04-12f0-428b-83de-1df041d9e1a8")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 62.23 162.56 90)
 		(unit 1)
@@ -7695,6 +8029,88 @@
 		)
 	)
 	(symbol
+		(lib_id "SplitKeyboard_Common:MSK12C02")
+		(at 321.31 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c57625f-5ae4-4517-84c4-fa64f465fdcb")
+		(property "Reference" "SW24"
+			(at 321.31 26.67 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "MSK12C02"
+			(at 321.31 38.1 0)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:MSK12C02"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C431540"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "2aa32b33-7b62-4642-a71a-f7f140ec07de")
+		)
+		(pin "NO"
+			(uuid "8794aba4-b9eb-408c-9515-6b44016ad6fa")
+		)
+		(pin "COM"
+			(uuid "384076e4-07c8-48be-bd9c-5cef6739be9a")
+		)
+		(pin "NC"
+			(uuid "4d490627-d564-4e88-a4bb-1a5fd43ec2f8")
+		)
+		(instances
+			(project ""
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 78.74 116.84 90)
 		(unit 1)
@@ -7776,6 +8192,71 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 350.52 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3037000b-71ff-4bdf-88a0-329cff48af87")
+		(property "Reference" "#PWR019"
+			(at 350.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 350.774 33.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 350.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1707b1c-6d77-4f3d-a091-f80990d301aa")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -8629,6 +9110,71 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 350.52 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4619fdec-03d8-4cbc-a809-f9fd47341b20")
+		(property "Reference" "#PWR018"
+			(at 350.52 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 350.774 26.924 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 350.52 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 350.52 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c1449ac-aaf9-46d9-ba3d-f5a36c0ae12a")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -9778,6 +10324,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 356.87 36.83 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "770fe709-8743-409e-b04e-431a5cd57017")
+		(property "Reference" "JP4"
+			(at 356.87 33.782 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 356.87 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:Jumper_min_v2"
+			(at 356.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 356.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 356.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e43e2853-5e96-433d-a2a1-c9f517546d12")
+		)
+		(pin "2"
+			(uuid "7a95dd4f-1b3c-466a-8a75-fe4d29557641")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 144.78 116.84 90)
 		(unit 1)
@@ -9946,6 +10560,139 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 356.87 30.48 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e3b3138-a920-4998-92e6-96c1cdd43ffd")
+		(property "Reference" "JP3"
+			(at 356.87 27.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 356.87 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SplitKeyboard_Common:Jumper_min_v2"
+			(at 356.87 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 356.87 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 356.87 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "477de376-3094-4869-a73b-e222e947c0ad")
+		)
+		(pin "2"
+			(uuid "34211965-e2d4-4f8a-8a52-55b6dc8045f5")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 341.63 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f95e5c8-3ca3-449c-a039-d7ec6ba9f93a")
+		(property "Reference" "#PWR017"
+			(at 341.63 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 341.884 29.464 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 341.63 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 341.63 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 341.63 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "514dc965-77e9-4ba6-b2fb-80f39a7afecf")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -11149,6 +11896,71 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 321.31 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a6de75d2-dada-444b-aaff-215c1050478c")
+		(property "Reference" "#PWR016"
+			(at 321.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 321.31 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 321.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1601bcd2-b88c-43b1-9f64-fbef52a03892")
+		)
+		(instances
+			(project "orkb"
+				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)

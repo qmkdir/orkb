@@ -289,7 +289,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "02120e1f-102d-49e0-8ec1-4821f174a440")
-		(at 67.056 89.916 90)
+		(at 67.056 87.174001 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "FB2"
@@ -2420,7 +2420,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5940617d-2b85-4df7-b49f-628040a33181")
-		(at 75.819 94.615)
+		(at 75.819 91.873001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "FB1"
@@ -2908,7 +2908,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "69f8104d-c798-4cc7-9b38-9da9d0e8d3d1")
-		(at 107.696 51.943 180)
+		(at 110.49 51.943 180)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D23"
@@ -4003,7 +4003,7 @@
 	(footprint "SplitKeyboard_Common:Jumper_min_v2"
 		(layer "F.Cu")
 		(uuid "831126a5-c7eb-4cc5-9d5d-06dd5c9f2a30")
-		(at 86.487 87.035 90)
+		(at 86.487 84.368 90)
 		(property "Reference" "JP1"
 			(at -0.169999 -1.77 90)
 			(unlocked yes)
@@ -4959,7 +4959,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "9a62508c-a9a5-4650-b5c4-4d457edbc855")
-		(at 76.2 99.314 90)
+		(at 76.2 96.572001 90)
 		(descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
@@ -5530,9 +5530,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "F.Cu")
 		(uuid "a7bae3a8-6939-4348-8874-b20c4b971bb2")
-		(at 66.548 126.238 90)
+		(at 103.505 48.514)
 		(property "Reference" "RES1"
-			(at 0 -3.2 90)
+			(at 0 -3.2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5545,7 +5545,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.27 -5.080001 90)
+			(at -1.269998 -5.080001 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5558,7 +5558,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5571,7 +5571,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5584,7 +5584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5597,7 +5597,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 90)
+			(at 0 0 360)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9db8dc48-c0a6-413a-a03b-4ed384c52e92")
@@ -5614,6 +5614,18 @@
 		(attr smd)
 		(fp_poly
 			(pts
+				(xy -2.4 -0.849996) (xy 2.400002 -0.850001) (xy 2.400001 1.55) (xy -2.399998 1.550001)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "51b21198-4826-4222-955e-26e9528fa9e2")
+		)
+		(fp_poly
+			(pts
 				(xy -0.95 -2.1) (xy 0.95 -2.1) (xy 0.95 -0.9) (xy -0.95 -0.9)
 			)
 			(stroke
@@ -5626,19 +5638,7 @@
 		)
 		(fp_poly
 			(pts
-				(xy -2.4 -0.849999) (xy 2.4 -0.850001) (xy 2.400001 1.55) (xy -2.399999 1.550001)
-			)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "51b21198-4826-4222-955e-26e9528fa9e2")
-		)
-		(fp_poly
-			(pts
-				(xy -2.999999 -2.25) (xy 3.000001 -2.249999) (xy 3.000001 1.95) (xy -2.999999 1.950001)
+				(xy -2.999998 -2.249999) (xy 3.000004 -2.249999) (xy 3.000001 1.95) (xy -3 1.950002)
 			)
 			(stroke
 				(width 0.1)
@@ -5649,21 +5649,21 @@
 			(uuid "7596c93c-7429-41fb-ae4c-50507c67ae43")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0 90)
+			(at -0.85 0)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "93148871-7dac-438c-8684-f7bee9ad8e17")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0 90)
+			(at 0.85 0)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "00bf0bc5-fe13-4bcd-b108-ca4bab552471")
 		)
 		(pad "1" smd roundrect
-			(at -2 1.349999 90)
+			(at -2 1.349999)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5673,7 +5673,7 @@
 			(uuid "e76a1c14-5c46-4e19-96e2-9a23341689e2")
 		)
 		(pad "2" smd roundrect
-			(at 1.999999 1.350001 90)
+			(at 1.999999 1.350001)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5683,7 +5683,7 @@
 			(uuid "f5081892-7eb8-4c93-844b-67b1e5e6ebe7")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 -0.35 90)
+			(at -2.475 -0.35)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -5694,7 +5694,7 @@
 			(uuid "6f0e6fd3-0bb1-4afe-954b-3f25276734fa")
 		)
 		(pad "3" smd roundrect
-			(at 2.540001 -0.350001 90)
+			(at 2.540003 -0.349999)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -9641,7 +9641,7 @@
 	(footprint "SplitKeyboard_Common:Jumper_min_v2"
 		(layer "B.Cu")
 		(uuid "0698df0c-867c-4edb-b0f3-339826e09a98")
-		(at 86.487 87.035 -90)
+		(at 86.487 84.368 -90)
 		(property "Reference" "JP2"
 			(at -0.17 1.769999 90)
 			(unlocked yes)
@@ -10644,7 +10644,7 @@
 	(footprint "SplitKeyboard_Common:ProMicro_Jumpers_V2"
 		(layer "B.Cu")
 		(uuid "091fd1fb-3e6b-4b5f-8fde-1e5d6348f3b5")
-		(at 78.77 69.977 180)
+		(at 78.77 67.31 180)
 		(descr "Pro Micro footprint")
 		(tags "promicro ProMicro")
 		(property "Reference" "U1"
@@ -18824,7 +18824,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "B.Cu")
 		(uuid "2ee68d5a-082b-49bf-9a4e-bc15bf352a1a")
-		(at 76.2 99.314 -90)
+		(at 76.2 96.572001 -90)
 		(descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
@@ -31155,7 +31155,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "6e8e22c5-ac4e-45a1-bebb-3d2763ea04f6")
-		(at 67.056 89.916 90)
+		(at 67.056 87.174001 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "FB4"
@@ -32238,7 +32238,7 @@
 	(footprint "SplitKeyboard_Common:HRO-TYPE-C-31-M-13x_DOUBLESIDED_Molex-216990_GCT-USB45xx"
 		(layer "B.Cu")
 		(uuid "71151138-29d1-479d-a1a9-1b64c1b7bdc4")
-		(at 65.781499 99.294 90)
+		(at 65.781499 96.552001 90)
 		(property "Reference" "J1"
 			(at -6.858 3.215002 180)
 			(unlocked yes)
@@ -32884,7 +32884,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "72dc817c-deb2-482b-b896-a908d3917b62")
-		(at 107.696 51.943 180)
+		(at 110.49 51.943 180)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D1"
@@ -36315,7 +36315,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "a18542a3-5a17-42b2-81ca-8d8a1dde7b8a")
-		(at 75.819 94.615)
+		(at 75.819 91.873001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "FB3"
@@ -37958,7 +37958,7 @@
 	(footprint "SplitKeyboard_Common:SSD1306-0.91-OLED-4pin-128x32_DOUBLESIDED"
 		(layer "B.Cu")
 		(uuid "af8b2fee-d332-4068-8417-98cefc7a0ec0")
-		(at 78.74 70.806 -90)
+		(at 78.74 68.139 -90)
 		(property "Reference" "P1"
 			(at -16.100001 0.089999 0)
 			(unlocked yes)
@@ -40158,9 +40158,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "B.Cu")
 		(uuid "f2f57d50-8877-45fd-be27-82a5a53a128a")
-		(at 66.548 126.238 -90)
+		(at 103.505 48.514 180)
 		(property "Reference" "RES2"
-			(at 0 3.2 90)
+			(at 0 3.2 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -40174,7 +40174,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.269999 5.08 90)
+			(at -1.269999 5.080002 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40188,7 +40188,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40202,7 +40202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40216,7 +40216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -40230,7 +40230,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 90)
+			(at 0 0 360)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e1f3b751-811c-43a8-be78-a6d1bdacbe79")
@@ -40248,6 +40248,18 @@
 		(attr smd)
 		(fp_poly
 			(pts
+				(xy 2.399998 -1.550001) (xy -2.400001 -1.55) (xy -2.400002 0.850001) (xy 2.4 0.849996)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "3a32b189-a8f1-4aba-9398-26fc80e0d63d")
+		)
+		(fp_poly
+			(pts
 				(xy 0.95 0.9) (xy -0.95 0.9) (xy -0.95 2.1) (xy 0.95 2.1)
 			)
 			(stroke
@@ -40260,19 +40272,7 @@
 		)
 		(fp_poly
 			(pts
-				(xy 2.399999 -1.550001) (xy -2.400001 -1.55) (xy -2.4 0.850001) (xy 2.4 0.849999)
-			)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "3a32b189-a8f1-4aba-9398-26fc80e0d63d")
-		)
-		(fp_poly
-			(pts
-				(xy 2.999999 -1.950001) (xy -3.000001 -1.95) (xy -3.000001 2.249999) (xy 2.999999 2.25)
+				(xy 3 -1.950002) (xy -3.000001 -1.95) (xy -3.000004 2.249999) (xy 2.999998 2.249999)
 			)
 			(stroke
 				(width 0.1)
@@ -40283,21 +40283,21 @@
 			(uuid "71b9ac53-c55d-47c3-bd13-758db71f4960")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0 270)
+			(at -0.85 0 180)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "7c65ad82-f7ee-435a-87cb-3efb987d8295")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0 270)
+			(at 0.85 0 180)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "f30afc64-30ea-4503-8bc0-fbaaad337e62")
 		)
 		(pad "1" smd roundrect
-			(at -1.999999 -1.350001 270)
+			(at -1.999999 -1.350001 180)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40307,7 +40307,7 @@
 			(uuid "d5d22ed0-8c1a-488b-8d50-32e97a6b282f")
 		)
 		(pad "2" smd roundrect
-			(at 2 -1.349999 270)
+			(at 2 -1.349999 180)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40317,7 +40317,7 @@
 			(uuid "13b79235-f76c-4edf-9a29-0e7fd81743d4")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 0.35 270)
+			(at -2.475 0.35 180)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40328,7 +40328,7 @@
 			(uuid "8b55c0e8-6073-4f07-b4cb-37ecbf658212")
 		)
 		(pad "3" smd roundrect
-			(at 2.54 0.349999 270)
+			(at 2.54 0.349999 180)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -40642,16 +40642,6 @@
 		(uuid "bda8cef6-aafc-4a85-a1c7-8943aa778520")
 	)
 	(gr_line
-		(start 65.278 51.054)
-		(end 65.278 93.523997)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "05693c8e-1376-481b-815d-b9d55056e06d")
-	)
-	(gr_line
 		(start 94.922512 140.180923)
 		(end 81.452128 153.651307)
 		(stroke
@@ -40714,17 +40704,6 @@
 		(uuid "2a35cfee-1794-4163-8ae5-9dfed4df5715")
 	)
 	(gr_arc
-		(start 115.951 48.514)
-		(mid 115.579026 49.412026)
-		(end 114.681 49.784)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2ca7f555-6ec8-4cf2-95c5-3f9e29c2214b")
-	)
-	(gr_arc
 		(start 81.452128 153.651307)
 		(mid 80.554102 154.023282)
 		(end 79.656077 153.651307)
@@ -40781,7 +40760,7 @@
 	)
 	(gr_line
 		(start 133.731 47.244)
-		(end 117.221 47.244)
+		(end 66.548 47.244)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -40892,6 +40871,17 @@
 		(layer "Edge.Cuts")
 		(uuid "91f54b81-6fea-41b6-9133-2eb32a97e41a")
 	)
+	(gr_arc
+		(start 65.278 48.514)
+		(mid 65.649974 47.615974)
+		(end 66.548 47.244)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "93c2110d-63ed-4e94-b06d-7c8a6c91bdc1")
+	)
 	(gr_line
 		(start 171.831 106.426)
 		(end 150.495 106.426)
@@ -40934,17 +40924,6 @@
 		(uuid "b22da191-c7e2-4671-83e3-72f2f99b44e1")
 	)
 	(gr_arc
-		(start 65.278 51.054)
-		(mid 65.649974 50.155974)
-		(end 66.548 49.784)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "bafc2613-799b-4c0c-bb1a-0a6195e53759")
-	)
-	(gr_arc
 		(start 212.471 58.801)
 		(mid 213.369026 59.172974)
 		(end 213.741 60.071)
@@ -40977,14 +40956,24 @@
 		(uuid "d2831f48-a2fe-48b0-a4fe-a024aeaeb6c0")
 	)
 	(gr_line
-		(start 114.681 49.784)
-		(end 66.548 49.784)
+		(start 65.281497 102.322002)
+		(end 65.281497 139.319)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "dc4b4ca6-8fa6-4ff2-a209-7dd67ee08232")
+		(uuid "dd47c903-4a43-4720-95ae-d42c695af294")
+	)
+	(gr_line
+		(start 65.281497 90.781998)
+		(end 65.281497 48.514)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e84eca22-694e-48a8-a566-0468cf29b7a1")
 	)
 	(gr_line
 		(start 149.225 107.696)
@@ -40995,27 +40984,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "eca414c4-9328-4eb9-b28f-c8e66219573c")
-	)
-	(gr_arc
-		(start 115.951 48.514)
-		(mid 116.322974 47.615974)
-		(end 117.221 47.244)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f04af5f8-d8a0-479b-a9fc-2fb04ceeedf1")
-	)
-	(gr_line
-		(start 65.278 139.319)
-		(end 65.278 105.064001)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "fb054592-2e36-4f68-b133-1d3a6d2d00d0")
 	)
 	(gr_text "ORCA"
 		(at 137.795 104.775 0)

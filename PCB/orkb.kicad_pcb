@@ -5541,7 +5541,7 @@
 		(placed yes)
 		(layer "F.Cu")
 		(uuid "69f8104d-c798-4cc7-9b38-9da9d0e8d3d1")
-		(at 110.49 51.943 180)
+		(at 110.793 51.943 180)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D23"
@@ -10252,9 +10252,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "F.Cu")
 		(uuid "a7bae3a8-6939-4348-8874-b20c4b971bb2")
-		(at 66.548 108.585 90)
+		(at 103.505 48.514)
 		(property "Reference" "RES1"
-			(at 0 -3.2 90)
+			(at 0 -3.2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -10267,7 +10267,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.269999 -5.08 90)
+			(at -1.269999 -5.080002 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10280,7 +10280,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10293,7 +10293,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10306,7 +10306,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10319,7 +10319,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9db8dc48-c0a6-413a-a03b-4ed384c52e92")
@@ -10336,18 +10336,6 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy -0.95 -2.1) (xy 0.95 -2.1) (xy 0.95 -0.9) (xy -0.95 -0.9)
-			)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "8c2abbcb-f88f-4e86-983d-45bb74312c51")
-		)
-		(fp_poly
-			(pts
 				(xy -2.4 -0.849996) (xy 2.400002 -0.850001) (xy 2.400001 1.55) (xy -2.399998 1.550001)
 			)
 			(stroke
@@ -10357,6 +10345,18 @@
 			(fill none)
 			(layer "Dwgs.User")
 			(uuid "51b21198-4826-4222-955e-26e9528fa9e2")
+		)
+		(fp_poly
+			(pts
+				(xy -0.95 -2.1) (xy 0.95 -2.1) (xy 0.95 -0.9) (xy -0.95 -0.9)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "8c2abbcb-f88f-4e86-983d-45bb74312c51")
 		)
 		(fp_poly
 			(pts
@@ -10371,21 +10371,21 @@
 			(uuid "7596c93c-7429-41fb-ae4c-50507c67ae43")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0 90)
+			(at -0.85 0)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "93148871-7dac-438c-8684-f7bee9ad8e17")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0 90)
+			(at 0.85 0)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "00bf0bc5-fe13-4bcd-b108-ca4bab552471")
 		)
 		(pad "1" smd roundrect
-			(at -2 1.349999 90)
+			(at -2 1.349999)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -10395,7 +10395,7 @@
 			(uuid "e76a1c14-5c46-4e19-96e2-9a23341689e2")
 		)
 		(pad "2" smd roundrect
-			(at 1.999999 1.350001 90)
+			(at 1.999999 1.350001)
 			(size 0.6 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -10405,7 +10405,7 @@
 			(uuid "f5081892-7eb8-4c93-844b-67b1e5e6ebe7")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 -0.35 90)
+			(at -2.475 -0.35)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -10416,7 +10416,7 @@
 			(uuid "6f0e6fd3-0bb1-4afe-954b-3f25276734fa")
 		)
 		(pad "3" smd roundrect
-			(at 2.540003 -0.349999 90)
+			(at 2.540003 -0.349999)
 			(size 0.95 1.1)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.05)
@@ -39922,7 +39922,7 @@
 		(placed yes)
 		(layer "B.Cu")
 		(uuid "72dc817c-deb2-482b-b896-a908d3917b62")
-		(at 110.49 51.943 180)
+		(at 110.793 51.943 180)
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D1"
@@ -48203,7 +48203,7 @@
 		)
 		(fp_arc
 			(start -1.679999 2.060001)
-			(mid -1.73 2.109999)
+			(mid -1.73 2.109997)
 			(end -1.78 2.06)
 			(stroke
 				(width 0.2)
@@ -48693,9 +48693,9 @@
 	(footprint "SplitKeyboard_Common:YTS-A002"
 		(layer "B.Cu")
 		(uuid "f2f57d50-8877-45fd-be27-82a5a53a128a")
-		(at 66.548 108.585 -90)
+		(at 103.505 48.514 180)
 		(property "Reference" "RES2"
-			(at 0 3.2 90)
+			(at 0 3.2 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
@@ -48709,7 +48709,7 @@
 			)
 		)
 		(property "Value" "TS-A002_TactileSW"
-			(at -1.27 5.080001 90)
+			(at -1.269998 5.080001 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -48723,7 +48723,7 @@
 			)
 		)
 		(property "Footprint" "SplitKeyboard_Common:YTS-A002"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -48737,7 +48737,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -48751,7 +48751,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -48765,7 +48765,7 @@
 			)
 		)
 		(property "LCSC" "C2888934"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e1f3b751-811c-43a8-be78-a6d1bdacbe79")
@@ -48783,18 +48783,6 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy 0.95 0.9) (xy -0.95 0.9) (xy -0.95 2.1) (xy 0.95 2.1)
-			)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill none)
-			(layer "Dwgs.User")
-			(uuid "5499dad4-cbbd-432d-b53b-c4f960d0fe8f")
-		)
-		(fp_poly
-			(pts
 				(xy 2.399998 -1.550001) (xy -2.400001 -1.55) (xy -2.400002 0.850001) (xy 2.4 0.849996)
 			)
 			(stroke
@@ -48804,6 +48792,18 @@
 			(fill none)
 			(layer "Dwgs.User")
 			(uuid "3a32b189-a8f1-4aba-9398-26fc80e0d63d")
+		)
+		(fp_poly
+			(pts
+				(xy 0.95 0.9) (xy -0.95 0.9) (xy -0.95 2.1) (xy 0.95 2.1)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "Dwgs.User")
+			(uuid "5499dad4-cbbd-432d-b53b-c4f960d0fe8f")
 		)
 		(fp_poly
 			(pts
@@ -48818,21 +48818,21 @@
 			(uuid "71b9ac53-c55d-47c3-bd13-758db71f4960")
 		)
 		(pad "" np_thru_hole circle
-			(at -0.85 0 270)
+			(at -0.85 0 180)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "7c65ad82-f7ee-435a-87cb-3efb987d8295")
 		)
 		(pad "" np_thru_hole circle
-			(at 0.85 0 270)
+			(at 0.85 0 180)
 			(size 0.7 0.7)
 			(drill 0.7)
 			(layers "F&B.Cu" "*.Mask")
 			(uuid "f30afc64-30ea-4503-8bc0-fbaaad337e62")
 		)
 		(pad "1" smd roundrect
-			(at -1.999999 -1.350001 270)
+			(at -1.999999 -1.350001 180)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -48842,7 +48842,7 @@
 			(uuid "d5d22ed0-8c1a-488b-8d50-32e97a6b282f")
 		)
 		(pad "2" smd roundrect
-			(at 2 -1.349999 270)
+			(at 2 -1.349999 180)
 			(size 0.6 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -48852,7 +48852,7 @@
 			(uuid "13b79235-f76c-4edf-9a29-0e7fd81743d4")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 0.35 270)
+			(at -2.475 0.35 180)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)
@@ -48863,7 +48863,7 @@
 			(uuid "8b55c0e8-6073-4f07-b4cb-37ecbf658212")
 		)
 		(pad "3" smd roundrect
-			(at 2.54 0.349999 270)
+			(at 2.54 0.349999 180)
 			(size 0.95 1.1)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.05)

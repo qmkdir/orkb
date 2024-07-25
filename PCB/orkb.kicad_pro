@@ -459,8 +459,10 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/PWR_GLOW": "Power",
       "/PWR_KEY": "Power",
-      "Net-(J1-SHIELD)": "Power"
+      "Net-(J1-SHIELD)": "Power",
+      "Net-(LED24-VDD)": "Power"
     },
     "netclass_patterns": []
   },

@@ -3991,12 +3991,6 @@
 		)
 	)
 	(junction
-		(at 312.42 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00ff183f-1944-4812-9d00-ab7388824f37")
-	)
-	(junction
 		(at 128.27 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4027,12 +4021,6 @@
 		(uuid "0a6373e8-3910-42a6-a2fd-da94ed9dd271")
 	)
 	(junction
-		(at 312.42 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0ac6180b-0576-44e5-9b7d-d409ca24721c")
-	)
-	(junction
 		(at 54.61 275.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4043,12 +4031,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e9c350b-8b21-4a34-b52c-1ab3f77fa37e")
-	)
-	(junction
-		(at 365.76 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "10886c36-f650-4fc5-978b-d61875e60eda")
 	)
 	(junction
 		(at 95.25 143.51)
@@ -4201,12 +4183,6 @@
 		(uuid "496357b2-f5c2-4a2f-bdd9-bd71ba572c8e")
 	)
 	(junction
-		(at 347.98 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f9ab8a9-59b7-4cd2-885f-848e7b29f354")
-	)
-	(junction
 		(at 85.09 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4295,12 +4271,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a590b4d-fb49-45aa-a6ac-209008f2ef7d")
-	)
-	(junction
-		(at 330.2 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e0def92-eddc-48a4-8290-96b8a9b33b05")
 	)
 	(junction
 		(at 62.23 113.03)
@@ -4501,22 +4471,10 @@
 		(uuid "c0fa44a0-9a3b-4840-a2cf-f0e4c89548da")
 	)
 	(junction
-		(at 365.76 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c430c43d-a6d3-401b-9298-322200e45b53")
-	)
-	(junction
 		(at 78.74 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c521f8d7-66b2-4528-a92e-09756abc2bae")
-	)
-	(junction
-		(at 347.98 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c55f9657-0c32-46d9-ae7d-c4bcd57587d5")
 	)
 	(junction
 		(at 111.76 128.27)
@@ -4633,12 +4591,6 @@
 		(uuid "e920e3f3-26db-4f0e-bf76-fa5f10e9628b")
 	)
 	(junction
-		(at 330.2 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea600967-8c70-4bac-9dad-ca129c06d469")
-	)
-	(junction
 		(at 78.74 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4699,10 +4651,6 @@
 	(no_connect
 		(at 111.76 40.64)
 		(uuid "145db3c6-7269-4de4-8f92-58d121f47848")
-	)
-	(no_connect
-		(at 391.16 113.03)
-		(uuid "15b7aedb-6e2f-43e9-9235-b52587104101")
 	)
 	(no_connect
 		(at 44.45 35.56)
@@ -4875,16 +4823,6 @@
 			(type default)
 		)
 		(uuid "123d4911-5430-43a7-811b-f8e4ac4cd2ce")
-	)
-	(wire
-		(pts
-			(xy 299.72 105.41) (xy 312.42 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12c970cd-28ee-4132-aeee-f94ac5fcadb3")
 	)
 	(wire
 		(pts
@@ -5308,16 +5246,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 120.65) (xy 365.76 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a698100-32d9-4035-80ca-fd0199f16d00")
-	)
-	(wire
-		(pts
 			(xy 72.39 241.3) (xy 90.17 241.3)
 		)
 		(stroke
@@ -5718,16 +5646,6 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 113.03) (xy 358.14 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84d7001b-677e-4de5-87fe-e60372e58382")
-	)
-	(wire
-		(pts
 			(xy 68.58 143.51) (xy 68.58 158.75)
 		)
 		(stroke
@@ -5968,16 +5886,6 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 120.65) (xy 330.2 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ada16016-422f-4f87-bc39-0f3572215f1d")
-	)
-	(wire
-		(pts
 			(xy 72.39 222.25) (xy 72.39 223.52)
 		)
 		(stroke
@@ -5995,16 +5903,6 @@
 			(type default)
 		)
 		(uuid "b0977d72-6a6e-4491-8132-f8174827ce25")
-	)
-	(wire
-		(pts
-			(xy 299.72 120.65) (xy 312.42 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b13b145e-b672-4985-bc4a-f4aec592159c")
 	)
 	(wire
 		(pts
@@ -6075,16 +5973,6 @@
 			(type default)
 		)
 		(uuid "bde8f020-5196-4659-b5c2-95e2e6c382ea")
-	)
-	(wire
-		(pts
-			(xy 365.76 105.41) (xy 383.54 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be316879-f985-406d-a1aa-414d7e358e96")
 	)
 	(wire
 		(pts
@@ -6188,16 +6076,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 113.03) (xy 375.92 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceeb6cac-a659-4c8b-a5e4-5cfba71ae4e5")
-	)
-	(wire
-		(pts
 			(xy 107.95 259.08) (xy 125.73 259.08)
 		)
 		(stroke
@@ -6208,16 +6086,6 @@
 	)
 	(wire
 		(pts
-			(xy 365.76 120.65) (xy 383.54 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d06afa6e-2c67-4d87-9a88-95c7767f9e64")
-	)
-	(wire
-		(pts
 			(xy 36.83 259.08) (xy 54.61 259.08)
 		)
 		(stroke
@@ -6225,16 +6093,6 @@
 			(type default)
 		)
 		(uuid "d087aaf8-ef5f-435e-907d-452865ce0c40")
-	)
-	(wire
-		(pts
-			(xy 337.82 113.03) (xy 340.36 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d135bf85-4b05-4f0b-8a72-27771f9b81d2")
 	)
 	(wire
 		(pts
@@ -6315,16 +6173,6 @@
 			(type default)
 		)
 		(uuid "d8e0f7a1-4712-495a-bed9-8deeaf633d70")
-	)
-	(wire
-		(pts
-			(xy 312.42 105.41) (xy 330.2 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d94fafc0-2e9c-420a-a257-fe53865cfa6c")
 	)
 	(wire
 		(pts
@@ -6488,26 +6336,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 105.41) (xy 347.98 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4805d99-36b8-4bbe-9928-67e62b31db3f")
-	)
-	(wire
-		(pts
-			(xy 347.98 105.41) (xy 365.76 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4e2df68-0b98-41bb-ba6b-c46071f3c111")
-	)
-	(wire
-		(pts
 			(xy 21.59 66.04) (xy 21.59 73.66)
 		)
 		(stroke
@@ -6528,16 +6356,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 120.65) (xy 347.98 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e849dd22-11d8-42e3-b323-fda49037fd76")
-	)
-	(wire
-		(pts
 			(xy 107.95 240.03) (xy 107.95 241.3)
 		)
 		(stroke
@@ -6555,16 +6373,6 @@
 			(type default)
 		)
 		(uuid "ea587608-07a2-453d-af60-a67832caa853")
-	)
-	(wire
-		(pts
-			(xy 303.53 113.03) (xy 304.8 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea6fc206-b984-4697-9454-9a9b0e615cd3")
 	)
 	(wire
 		(pts
@@ -6756,16 +6564,6 @@
 		)
 		(uuid "febc90a6-c4be-4587-8a11-784ad77ff9ff")
 	)
-	(wire
-		(pts
-			(xy 320.04 113.03) (xy 322.58 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fefa11a1-165a-456a-bfc6-9d0611f32c21")
-	)
 	(rectangle
 		(start 185.42 52.07)
 		(end 281.94 85.09)
@@ -6854,19 +6652,6 @@
 			(type none)
 		)
 		(uuid 95e2678e-b86c-4ca2-9869-68fadbe94ad2)
-	)
-	(rectangle
-		(start 284.48 88.9)
-		(end 405.13 135.89)
-		(stroke
-			(width 0)
-			(type dash)
-			(color 255 166 62 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 97638633-33b1-4e80-ba21-cb9bf34edb4e)
 	)
 	(rectangle
 		(start 185.42 13.97)
@@ -7027,17 +6812,6 @@
 			(justify left bottom)
 		)
 		(uuid "adf0603a-6f59-4491-844a-f1ee51c2ade6")
-	)
-	(label "PWR_GLOW"
-		(at 299.72 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c04f48da-f76d-43cc-9efd-599b8356ab7f")
 	)
 	(label "PWR_KEY"
 		(at 345.44 58.42 0)
@@ -7468,28 +7242,6 @@
 			)
 		)
 	)
-	(global_label "LED"
-		(shape input)
-		(at 303.53 113.03 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "61be6e60-8483-4746-ac20-40143cce70f0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 297.0977 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RESET"
 		(shape input)
 		(at 247.65 113.03 0)
@@ -7856,29 +7608,6 @@
 		(uuid "3279906e-166c-49cd-82ad-83416aa3da2d")
 		(property "Netclass" "Power"
 			(at 46.4185 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 321.31 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "501a94c9-3cb4-4745-8d8d-10475fb60549")
-		(property "Netclass" "Power"
-			(at 322.0085 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9054,90 +8783,6 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "LED14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SplitKeyboard_Common:SK6812MINI-E")
-		(at 330.2 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "19634823-a547-4aad-914e-129bb4a214a8")
-		(property "Reference" "LED25"
-			(at 334.01 106.68 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "SK6803MINI-E"
-			(at 334.01 119.38 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" "SplitKeyboard_Common:MX_SK6812MINI-E_REVERSIBLE"
-			(at 331.47 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 332.74 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 330.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5242955"
-			(at 330.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9166668f-e5d3-45b9-81db-6be538d2cfbc")
-		)
-		(pin "1"
-			(uuid "39fc9cbf-81cd-4d8c-9fdb-753cae09396b")
-		)
-		(pin "4"
-			(uuid "c1a5d671-f393-49b3-afc0-2d6806bcc7f3")
-		)
-		(pin "2"
-			(uuid "58d1f781-2b88-48dc-8573-409e98317773")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "LED25")
 					(unit 1)
 				)
 			)
@@ -14149,90 +13794,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SplitKeyboard_Common:SK6812MINI-E")
-		(at 347.98 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "889b1b86-f40d-4f02-8219-ea1ef65e9338")
-		(property "Reference" "LED26"
-			(at 351.79 106.68 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "SK6803MINI-E"
-			(at 351.79 119.38 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" "SplitKeyboard_Common:MX_SK6812MINI-E_REVERSIBLE"
-			(at 349.25 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 350.52 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 347.98 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5242955"
-			(at 347.98 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "04c700fe-7b86-4c55-b4b3-947f87cee9d4")
-		)
-		(pin "1"
-			(uuid "b481abd8-9180-4a28-a95e-09db6302fc8c")
-		)
-		(pin "4"
-			(uuid "7f73b5b1-c3fa-430c-9337-9758fd6df77b")
-		)
-		(pin "2"
-			(uuid "5a35bf01-8ee8-4c7c-ad24-ec03233754b2")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "LED26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 111.76 147.32 90)
 		(unit 1)
@@ -15683,90 +15244,6 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SplitKeyboard_Common:SK6812MINI-E")
-		(at 312.42 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab7ec6f2-8354-464e-919d-2179f7319be1")
-		(property "Reference" "LED24"
-			(at 316.23 106.68 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "SK6803MINI-E"
-			(at 316.23 119.38 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" "SplitKeyboard_Common:MX_SK6812MINI-E_REVERSIBLE"
-			(at 313.69 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 314.96 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 312.42 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5242955"
-			(at 312.42 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "f14a2d31-1ebd-456e-a17a-ea5445ee8634")
-		)
-		(pin "1"
-			(uuid "06ce9da6-2924-4246-a969-db2c2127aa83")
-		)
-		(pin "4"
-			(uuid "0223c951-3b08-4b86-b597-60e2ce13afba")
-		)
-		(pin "2"
-			(uuid "a53403f6-a767-4c2e-aaad-ec084ec52d41")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "LED24")
 					(unit 1)
 				)
 			)
@@ -17578,90 +17055,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SplitKeyboard_Common:SK6812MINI-E")
-		(at 383.54 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e779ec2d-717a-44a0-862d-69696f449797")
-		(property "Reference" "LED28"
-			(at 387.35 106.68 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "SK6803MINI-E"
-			(at 387.35 119.38 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" "SplitKeyboard_Common:MX_SK6812MINI-E_REVERSIBLE"
-			(at 384.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 383.54 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5242955"
-			(at 383.54 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "e68b5975-ab5c-4f04-98a0-aab2d8918ba7")
-		)
-		(pin "1"
-			(uuid "32480dc7-8c85-493c-bf08-e6bf43c1c7dc")
-		)
-		(pin "4"
-			(uuid "cc06e84b-e5a0-4331-93ba-49b5e642dad7")
-		)
-		(pin "2"
-			(uuid "fa8f7319-458a-4829-8313-0ea55053b530")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "LED28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 128.27 116.84 90)
 		(unit 1)
@@ -17830,71 +17223,6 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "D40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 299.72 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed17e2ea-d17a-421d-818f-45de70fd8050")
-		(property "Reference" "#PWR022"
-			(at 299.72 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 299.72 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 299.72 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 299.72 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 299.72 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89fa5cd0-b5e8-4d59-a3f9-75c0db6c747e")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -18506,90 +17834,6 @@
 			(project "orkb"
 				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
 					(reference "LED18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SplitKeyboard_Common:SK6812MINI-E")
-		(at 365.76 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f45b5137-a9e1-4755-8c3f-5c6efcdc26e8")
-		(property "Reference" "LED27"
-			(at 369.57 106.68 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "SK6803MINI-E"
-			(at 369.57 119.38 0)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" "SplitKeyboard_Common:MX_SK6812MINI-E_REVERSIBLE"
-			(at 367.03 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 368.3 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 365.76 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C5242955"
-			(at 365.76 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c51c2c1f-8274-421d-8044-3c6fb0c7abd8")
-		)
-		(pin "1"
-			(uuid "1c4d23fa-b7ec-4ee0-8dcc-a0e5abc76c0d")
-		)
-		(pin "4"
-			(uuid "fa13b2b4-e439-432d-81e7-c3a08536f70a")
-		)
-		(pin "2"
-			(uuid "f9ee8f13-57f3-433d-a934-d95cbef3f0cf")
-		)
-		(instances
-			(project "orkb"
-				(path "/2e9b39b0-48b3-4c90-b594-505f90309f22"
-					(reference "LED27")
 					(unit 1)
 				)
 			)

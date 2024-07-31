@@ -6716,6 +6716,16 @@
 		)
 		(uuid "635b98a8-f55c-42ef-a97d-273d1a46e0a1")
 	)
+	(text "First item connected on column"
+		(exclude_from_sim no)
+		(at 59.69 180.34 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "8bf9a206-2071-484f-8922-a44f58851be8")
+	)
 	(text "Index finger cluster"
 		(exclude_from_sim no)
 		(at 49.53 173.99 90)
@@ -6726,6 +6736,16 @@
 		)
 		(uuid "8ee6b4c3-72f2-43c4-a2d1-b93d7cb70828")
 	)
+	(text "Second item connected on column"
+		(exclude_from_sim no)
+		(at 60.96 165.1 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "916e92ff-6425-4c50-a2c4-ecb72063843e")
+	)
 	(text "Thumb cluster"
 		(exclude_from_sim no)
 		(at 49.53 157.48 90)
@@ -6735,6 +6755,16 @@
 			)
 		)
 		(uuid "a2c44e45-bcad-4c50-84f5-5e26f0287ffa")
+	)
+	(text "Start of row"
+		(exclude_from_sim no)
+		(at 40.64 179.07 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "a897e02a-f70e-405f-b8f5-791d77caa248")
 	)
 	(label "PWR_KEY"
 		(at 341.63 40.64 0)
